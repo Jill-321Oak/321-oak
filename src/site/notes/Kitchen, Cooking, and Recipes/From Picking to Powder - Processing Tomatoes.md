@@ -2,12 +2,10 @@
 {"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/from-picking-to-powder-processing-tomatoes/"}
 ---
 
-# From Picking to Powder - Processing Tomatoes
 
 9.4.25
 by: Jill@321Oak
 Pennsylvania, USA
-
 ## Processing Tomatoes
 
 TL;DR: [[Kitchen, Cooking, and Recipes/Recipe - Simple Tomato Sauce\|Recipe - Simple Tomato Sauce]]

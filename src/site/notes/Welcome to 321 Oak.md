@@ -8,7 +8,6 @@
 9.4.25
 by: Jill@321Oak
 Pennsylvania, USA
-
 ### Hello World, 
 
 Welcome to 321 Oak. My name is Jill, and in this little corner of the web I'm going to start to write about life, learning, and the various skills, abilities and thoughts I've collected in 50 something years life.

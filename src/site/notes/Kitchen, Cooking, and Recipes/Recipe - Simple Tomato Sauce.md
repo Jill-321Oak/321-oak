@@ -2,12 +2,10 @@
 {"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/recipe-simple-tomato-sauce/"}
 ---
 
-# Recipe - Simple Tomato Sauce
+
 9.4.25
 by: Jill@321Oak
 Pennsylvania, USA
-
-
 ## The Simplest recipe for Tomato Sauce
 
 ### Making Tomato Juice, Sauce, or Paste
