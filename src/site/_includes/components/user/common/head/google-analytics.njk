@@ -2,8 +2,16 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YK5Y76QWJJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  function gtag(){ dataLayer.push(arguments); }
 
-  gtag('config', 'G-YK5Y76QWJJ');
+  // Consent Mode v2 defaults (deny until user chooses)
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization_storage': 'denied'
+  });
+
+  gtag('js', new Date());
+  gtag('config', 'G-YK5Y76QWJJ'); // keep this; GA will run in limited mode until consent
 </script>
