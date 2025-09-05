@@ -41,3 +41,8 @@ To start with, check out my first few posts: [[Kitchen, Cooking, and Recipes/Fro
 So, again, welcome to the site. I hope you love it here. Please join me on my other platforms as they become available. I'll link them below as I get them set up. In the mean time, please bookmark this site and come back and see what I'm doing. Eventually, I'll have an email list and a newsletter you can subscribe to to see what's new with 321 Oak. In the mean time, feel free to reach out and let me know if you have questions or comments about my content! 
 
 Email: jill+comments@321Oak
+
+Note:
+- We use cookies for analytics. See our [[Policies and Other Details/Privacy Policy\|Privacy Policy]].
+- **Disclosure**: Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.
+

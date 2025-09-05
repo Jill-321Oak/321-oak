@@ -2,11 +2,8 @@
 {"dg-publish":true,"permalink":"/policies-and-other-details/privacy-policy/"}
 ---
 
-# Privacy Policy
 
 **Effective Date:** 9.5.2025
-
-
 
 **321 Oak** (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect information when you visit our website **321Oak.com** (the “Site”).
 
@@ -108,3 +105,8 @@ If you have any questions about this Privacy Policy, please contact us:
 
 321 Oak  
 jill+Privacy@gmail.com
+
+
+Note:
+- We use cookies for analytics. See our [[Policies and Other Details/Privacy Policy\|Privacy Policy]].
+- **Disclosure**: Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.
