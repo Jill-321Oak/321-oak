@@ -1,0 +1,52 @@
+<style>
+  .ck-banner{position:fixed;inset:auto 0 0 0;display:flex;gap:.75rem;align-items:center;justify-content:space-between;padding:.9rem 1rem;background:#111;color:#fff;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;z-index:9999}
+  .ck-banner p{margin:0;max-width:70ch}
+  .ck-btns{display:flex;gap:.5rem}
+  .ck-btn{border:0;padding:.5rem .8rem;cursor:pointer;border-radius:.375rem}
+  .ck-accept{background:#2e7d32;color:#fff}
+  .ck-decline{background:#424242;color:#fff}
+  .ck-link{color:#9ecbff;text-decoration:underline}
+  @media (max-width:640px){.ck-banner{flex-direction:column;align-items:stretch}.ck-btns{justify-content:flex-end}}
+</style>
+<div id="ck-banner" class="ck-banner" hidden>
+  <p>We use cookies for analytics. <a class="ck-link" href="/privacy/" rel="nofollow">Learn more</a>.</p>
+  <div class="ck-btns">
+    <button class="ck-btn ck-decline" id="ck-decline">Decline</button>
+    <button class="ck-btn ck-accept" id="ck-accept">Accept</button>
+  </div>
+</div>
+<script>
+(function(){
+  const KEY='ck-consent-v1';
+  const saved = localStorage.getItem(KEY);
+  const banner = document.getElementById('ck-banner');
+
+  function setConsent(granted){
+    // Update GA4 Consent Mode v2
+    gtag('consent','update',{
+      ad_storage: granted ? 'granted' : 'denied',
+      analytics_storage: granted ? 'granted' : 'denied',
+      ad_user_data: granted ? 'granted' : 'denied',
+      ad_personalization_storage: granted ? 'granted' : 'denied'
+    });
+    localStorage.setItem(KEY, granted ? 'granted' : 'denied');
+  }
+
+  if (!saved){
+    // No choice yet: show banner
+    banner.hidden = false;
+  } else {
+    // Apply stored choice immediately (no banner)
+    setConsent(saved === 'granted');
+  }
+
+  document.getElementById('ck-accept')?.addEventListener('click', function(){
+    setConsent(true);
+    banner.remove();
+  });
+  document.getElementById('ck-decline')?.addEventListener('click', function(){
+    setConsent(false);
+    banner.remove();
+  });
+})();
+</script>
