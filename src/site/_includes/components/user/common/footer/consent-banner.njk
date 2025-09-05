@@ -20,36 +20,60 @@
 </div>
 <script>
 (function(){
-  const KEY='ck-consent-v1';
-  const saved = localStorage.getItem(KEY);
+  const KEY = 'ck-consent-v1';
+
+  // --- cookie helpers ---
+  function getCookie(name){
+    const m = document.cookie.match(new RegExp('(?:^|; )'+name.replace(/[-.$?*|{}()[\\]\\/+^]/g,'\\$&')+'=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : null;
+  }
+  function setCookie(name, value, days){
+    const maxAge = (days ?? 365) * 24 * 60 * 60; // 12 months default
+    const domain = '.' + location.hostname.split('.').slice(-2).join('.'); // e.g., .321oak.com
+    document.cookie = name + '=' + encodeURIComponent(value)
+      + '; Max-Age=' + maxAge
+      + '; Path=/'
+      + '; Domain=' + domain
+      + (location.protocol === 'https:' ? '; Secure' : '')
+      + '; SameSite=Lax';
+  }
+
+  function getStoredConsent(){
+    // Cookie is the source of truth (has expiry). localStorage is optional mirror.
+    return getCookie(KEY) || localStorage.getItem(KEY);
+  }
+  function storeConsent(val){
+    setCookie(KEY, val, 365);              // <-- 12-month expiry
+    localStorage.setItem(KEY, val);        // mirror, not relied on for expiry
+  }
+
+  const saved = getStoredConsent();
   const banner = document.getElementById('ck-banner');
 
-  function setConsent(granted){
-    // Update GA4 Consent Mode v2
+  function updateConsent(granted){
     gtag('consent','update',{
       ad_storage: granted ? 'granted' : 'denied',
       analytics_storage: granted ? 'granted' : 'denied',
       ad_user_data: granted ? 'granted' : 'denied',
       ad_personalization_storage: granted ? 'granted' : 'denied'
     });
-    localStorage.setItem(KEY, granted ? 'granted' : 'denied');
+    storeConsent(granted ? 'granted' : 'denied');
   }
 
   if (!saved){
-    // No choice yet: show banner
-    banner.hidden = false;
+    banner.hidden = false; // show banner if no cookie
   } else {
-    // Apply stored choice immediately (no banner)
-    setConsent(saved === 'granted');
+    updateConsent(saved === 'granted'); // apply choice silently
   }
 
   document.getElementById('ck-accept')?.addEventListener('click', function(){
-    setConsent(true);
+    updateConsent(true);
     banner.remove();
   });
   document.getElementById('ck-decline')?.addEventListener('click', function(){
-    setConsent(false);
+    updateConsent(false);
     banner.remove();
   });
 })();
 </script>
+
