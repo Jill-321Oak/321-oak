@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/recipe-simple-tomato-sauce/"}
+{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/recipe-simple-tomato-sauce/","noteIcon":""}
 ---
 
 

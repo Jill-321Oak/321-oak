@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-321-oak/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-321-oak/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -16,10 +16,12 @@ I'm not exactly sure what it will become, and I imagine I'll update this page ov
 
 As my content collection grows, I'll be starting a YouTube channel, and I'll also post on Instagram, Pinterest, and Facebook. Feel free to follow me around the internet if you're interested in how this turns out.
 
+Here's what I've been publishing lately: [[Kitchen, Cooking, and Recipes/Notes on Home Canning/How to Become a Home Canner\|How to Become a Home Canner]]
+
 #### My Digital Garden
 A quick note about this particular site. I use a note taking program called Obsidian that I love more than is reasonable. The combination of that program, and a plug in called Digital Garden are the core infrastructure I'm using. 
 
-I've chosen this format because of the [[#Navigation Options]], the [[#Ad Free]], and the support for [[#Diverse but Interconnected]] growth.
+I've chosen this format because of the navigation options, because I'm going ad ree, and because it supports diverse but interconnected growth.
 
 ##### Navigation Options
 I really wanted a format that was very different than the usual blog. I want more structure than that enables. You will probably get to this site through some combination of internet search or links from my other media. Those links will take you directly to the article you're interested in. And if that's all you need, I hope you find the articles clear, concise, and simple to follow. 

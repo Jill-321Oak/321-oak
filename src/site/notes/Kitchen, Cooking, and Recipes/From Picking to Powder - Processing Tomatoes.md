@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/from-picking-to-powder-processing-tomatoes/"}
+{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/from-picking-to-powder-processing-tomatoes/","noteIcon":""}
 ---
 
 
