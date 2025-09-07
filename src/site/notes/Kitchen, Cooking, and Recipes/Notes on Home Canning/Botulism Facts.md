@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/botulism-facts/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["botulism facts","botulism","C. botulinum"],"dg-meta":"botulism","permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/botulism-facts/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
