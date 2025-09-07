@@ -6,7 +6,7 @@
 by: Jill@321Oak
 Pennsylvania, USA
 
-### A Short Canning Timeline:
+### A Canning Timeline:
 
 - in the early 1800s, Nicolas Appert invented the process of heat treating food in sealed glass jars. He publishes his method in 1810.
 - 1858, John Landis Mason invented the Mason jar, with a threaded jars, rubber rings, and metal lids. The invention made canning practical in the home kitchen.
