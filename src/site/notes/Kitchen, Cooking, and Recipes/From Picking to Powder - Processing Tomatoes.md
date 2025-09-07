@@ -7,7 +7,7 @@
 by: Jill@321Oak
 Pennsylvania, USA
 ## Processing Tomatoes
-![20250904_125622.jpg](/img/user/Images/20250904_125622.jpg)
+![20250904_125622.jpg](/img/user/images/20250904_125622.jpg)
 TL;DR: [[Kitchen, Cooking, and Recipes/Recipe - Simple Tomato Sauce\|Recipe - Simple Tomato Sauce]]
 
 We use a ton of tomato products every year. Tomato juice, sauce, paste, pasta sauces, enchilada sauces, soups and stews, delicious beans, one way or another - we use some kind of tomato product every week. 
