@@ -9,17 +9,6 @@ Pennsylvania, USA
 ## Modern Tools Make Canning Easier
 ![20250904_155845.jpg](/img/user/images/20250904_155845.jpg)
 
-<figure> 
-<img 
-	src="images/20250904_125622.jpg" 
-	alt="Tomato Sauce boiling in stock pot, getting ready to can."> 
-<figcaption>Finished Cans.</figcaption> </figure>
-
-<figure> 
-<img 
-	src="images/20250904_155845.jpg" 
-	alt="Jars of Tomato Sauce in the canner."> 
-<figcaption>Getting Ready to Process</figcaption> </figure>
 
 With modern tools from electric canners to 'hey google set a timer', canning is so much more accessible to hobbyists than it ever has been. And ok, maybe not 'easy' but certainly easier. When I started out, I made the very, very smart decision to get an electric pressure canner. I use it all the time, and I love it. With tools like this, and a little reading, you'll be off to the races in no time. 
 
