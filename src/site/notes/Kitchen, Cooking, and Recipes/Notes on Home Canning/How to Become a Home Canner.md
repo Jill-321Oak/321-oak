@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/how-to-become-a-home-canner/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["become a home canner"],"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/how-to-become-a-home-canner/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25
@@ -7,7 +7,14 @@ by: Jill@321Oak
 Pennsylvania, USA
 
 ## Canning is Easy!
-![20250904_155845.jpg](/img/user/02%20Utilities/Attachments/20250904_155845.jpg)
+![20250904_155845.jpg](/img/user/Images/20250904_155845.jpg)
+
+<figure> 
+<img 
+	src="Tomato Sauce cooking down 259.jpg" 
+	alt="Tomato Sauce boiling in stock pot, getting ready to can."> 
+<figcaption>Tomato sauce cooking down.</figcaption> </figure>
+
 With modern tools from electric canners to 'hey google set a timer', canning is so much more accessible to hobbyists than it ever has been. And ok, maybe not 'easy' but certainly easier. When I started out, I made the very, very smart decision to get an electric pressure canner. I use it all the time, and I love it. With tools like this, and a little reading, you'll be off to the races in no time. 
 
 ### I'm a Newb
