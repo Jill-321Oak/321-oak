@@ -102,7 +102,7 @@ Here's a collection of related articles if you're ready to start your trip down 
 - [[Kitchen, Cooking, and Recipes/Notes on Home Canning/Flat Sour\|Flat Sour]] gives you details of what this relatively common problem is, why it's common, and how to minimize your risk
 - [[Kitchen, Cooking, and Recipes/Notes on Home Canning/A Brief History of Canning\|A Brief History of Canning]] is exactly that. When we talk about things that 'our ancestors' did, lets be sure we're taking a look at the facts and see how far that history stretches back.
 - [[Kitchen, Cooking, and Recipes/Notes on Home Canning/The Canning Wars\|The Canning Wars]] is my description of the interweb's canning factions, including where I stand and why.
-- [[Kitchen, Cooking, and Recipes/Notes on Home Canning/Canning Methods I Don't Use\|Canning Methods I Don't Use]] describes some older methods that I avoid.
+- [[Kitchen, Cooking, and Recipes/Notes on Home Canning/Home Canning Methods I Don’t Use (and Why)\|Home Canning Methods I Don’t Use (and Why)]] describes some older methods that I avoid.
 
 
 Links:
