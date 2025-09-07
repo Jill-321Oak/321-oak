@@ -4,7 +4,7 @@
 
 # Life Skills, Learning & Everyday How-Tos
 
-September 4, 2025  
+9.4.25
 by: Jill@321Oak  
 Pennsylvania, USA
 

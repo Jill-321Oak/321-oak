@@ -1,20 +1,26 @@
 ---
-{"dg-publish":true,"status":["Ready to publish"],"description":"A quick timeline of canning: from Appert’s glass jars in the 1800s, to Mason’s invention, to the USDA’s 1917 pressure canning guidance, and beyond—tracing how home canning evolved alongside food safety science.","dg-metatags":{"description":"From Appert to pressure canning: how science shaped home canning safety.","og:title":"A Canning Timeline","og:description":"From Appert to pressure canning: how science shaped home canning safety."},"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/a-brief-history-of-canning/","metatags":{"description":"From Appert to pressure canning: how science shaped home canning safety.","og:title":"A Canning Timeline","og:description":"From Appert to pressure canning: how science shaped home canning safety."},"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"description":"A quick timeline of canning: from Appert’s glass jars in the 1800s, to Mason’s invention, to the USDA’s 1917 pressure canning guidance, and beyond—tracing how home canning evolved alongside food safety science.","dg-metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/home-canning-history-timeline","og:site_name":"321 Oak","og:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","twitter:image:alt":"Historical images of home canning from Appert to USDA guidance"},"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/a-brief-history-of-canning/","metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/home-canning-history-timeline","og:site_name":"321 Oak","og:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","twitter:image:alt":"Historical images of home canning from Appert to USDA guidance"},"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25
 by: Jill@321Oak
 Pennsylvania, USA
 
-### A Canning Timeline:
+### Canning History Timeline (1800s–2000s)
 
-- in the early 1800s, Nicolas Appert invented the process of heat treating food in sealed glass jars. He publishes his method in 1810.
-- 1858, John Landis Mason invented the Mason jar, with a threaded jars, rubber rings, and metal lids. The invention made canning practical in the home kitchen.
-- in the early 1900s, between dozens and hundreds of botulism deaths per year were linked to home canning
-- 1917, USDA begins recommending pressure canning for low acid foods. 
-- 1920s and 30s, Research by Karl F. Meyer (UC Berkeley) and the USDA document the heat resistance of C. *botulinum* and the process needed to inactivate them. 
-	- They find that C. *botulinum* spores can survive 5-6 hours of boiling in low acid foods
-- In the early 2000s, 20-25% of us households were home canning. ([source](https://nchfp.uga.edu/papers/2007/canning_survey.html?utm_source=chatgpt.com))
+- In the early 1800s, Nicolas Appert invented the process of heat-treating food in sealed glass jars. He published his method in 1810{+ for food preservation}.
+    
+- In 1858, John Landis Mason invented the Mason jar - a three-part system - a threaded glass jar, a rubber ring, and a metal lid that popularized home canning.
+    
+- In the early 1900s in the United States, dozens to hundreds of botulism deaths per year were linked to home canning.
+    
+- In 1917, the USDA began recommending pressure canning for low-acid foods.
+    
+- In the 1920s and 1930s, research by Karl F. Meyer (UC Berkeley) and the USDA documented the heat resistance of _C. botulinum_ (the bacterium that causes botulism) and the processes needed to inactivate it.
+    
+    - They found that _C. botulinum_ spores can survive 5–6 hours of boiling in low-acid foods.
+        
+- In the early 2000s, 20–25% of U.S. households were home canning. ([source](https://nchfp.uga.edu/papers/2007/canning_survey.html?utm_source=chatgpt.com))
 
 
 Links:
