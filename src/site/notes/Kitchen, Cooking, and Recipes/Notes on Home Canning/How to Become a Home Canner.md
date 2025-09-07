@@ -7,7 +7,7 @@ by: Jill@321Oak
 Pennsylvania, USA
 
 ## Canning is Easy!
-
+![20250904_155845.jpg](/img/user/02%20Utilities/Attachments/20250904_155845.jpg)
 With modern tools from electric canners to 'hey google set a timer', canning is so much more accessible to hobbyists than it ever has been. And ok, maybe not 'easy' but certainly easier. When I started out, I made the very, very smart decision to get an electric pressure canner. I use it all the time, and I love it. With tools like this, and a little reading, you'll be off to the races in no time. 
 
 ### I'm a Newb
