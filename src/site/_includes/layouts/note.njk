@@ -30,8 +30,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% set ldImage       = fm['og:image'] or defaultImage %}
     {% set pagePath      = page and page.url or "/" %}
     {% set pageUrl       = siteUrl + pagePath %}
-    {% set publishedDate = (page and page.date) ? page.date.toISOString().slice(0,10) : null %}
-    {% set modifiedDate  = (page and page.date) ? page.date.toISOString().slice(0,10) : null %}
+    {% if page and page.date %}
+      {% set publishedDate = page.date.toISOString().slice(0,10) %}
+      {% set modifiedDate  = page.date.toISOString().slice(0,10) %}
+    {% else %}
+      {% set publishedDate = null %}
+      {% set modifiedDate  = null %}
+    {% endif %}
     
     <script type="application/ld+json">
     {
