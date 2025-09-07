@@ -28,7 +28,7 @@ Article:
 
 ## But I Do Have Opinions Too
 
-So, these are some of the facts about botulism that I was able to find many sources to support. For some opinion on the matter, please see [[Kitchen, Cooking, and Recipes/Notes on Home Canning/Risks of Home Canning\|Risks of Home Canning]].
+So, these are some of the facts about botulism that I was able to find many sources to support. For some opinion on the matter, please see [[Kitchen, Cooking, and Recipes/Notes on Home Canning/Home Canning Risks - Spoilage and Botulism Basics\|Home Canning Risks - Spoilage and Botulism Basics]].
 
 Links:
 YouTube
