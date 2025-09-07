@@ -13,7 +13,7 @@ Pennsylvania, USA
 <img 
 	src="https://321oak.com/images/20250904_125622.jpg" 
 	alt="Tomato Sauce boiling in stock pot, getting ready to can."> 
-<figcaption>Tomato sauce cooking down.</figcaption> </figure>
+<figcaption>Finished Cans.</figcaption> </figure>
 
 With modern tools from electric canners to 'hey google set a timer', canning is so much more accessible to hobbyists than it ever has been. And ok, maybe not 'easy' but certainly easier. When I started out, I made the very, very smart decision to get an electric pressure canner. I use it all the time, and I love it. With tools like this, and a little reading, you'll be off to the races in no time. 
 
