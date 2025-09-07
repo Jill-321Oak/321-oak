@@ -12,6 +12,58 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+    {# --- JSON-LD (defensive with fallbacks) --- #}
+    {% set siteUrl          = "https://321oak.com" %}
+    {% set siteName        = "321 Oak" %}
+    {% set defaultImage    = "https://321oak.com/images/welcome-321oak-1200x630.jpg" %}
+    {% set defaultDesc     = "Practical life skills, learning, and everyday how-tos." %}
+    {% set defaultAuthor   = "Jill Stapleton" %}
+    {% set authorUrl       = siteUrl + "/about" %}
+    {% set logoUrl         = "https://321oak.com/images/logo-321oak.png" %}
+    
+    {# Try to read dg-metatags from the current page; fall back to empty object #}
+    {% set fm = (page and page.data and page.data['dg-metatags']) or (note and note.data and note.data['dg-metatags']) or {} %}
+    
+    {# Compute safe values with fallbacks #}
+    {% set ldTitle       = fm.title or (title) or siteName %}
+    {% set ldDesc        = fm.description or defaultDesc %}
+    {% set ldImage       = fm['og:image'] or defaultImage %}
+    {% set pagePath      = page and page.url or "/" %}
+    {% set pageUrl       = siteUrl + pagePath %}
+    {% set publishedDate = page and page.date | date("yyyy-MM-dd") %}
+    {% set modifiedDate  = (page and page.date | date("yyyy-MM-dd")) %}
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ ldTitle | dump }},
+      "description": {{ ldDesc | dump }},
+      "url": {{ pageUrl | dump }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ pageUrl | dump }}
+      },
+      "author": {
+        "@type": "Person",
+        "name": {{ defaultAuthor | dump }},
+        "url": {{ authorUrl | dump }}
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ siteName | dump }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": {{ logoUrl | dump }}
+        }
+      },
+      {% if publishedDate %}"datePublished": {{ publishedDate | dump }},{% endif %}
+      {% if modifiedDate %}"dateModified": {{ modifiedDate | dump }},{% endif %}
+      "image": [ {{ ldImage | dump }} ],
+      "inLanguage": "en",
+      "articleSection": "Introduction"
+    }
+    </script>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
