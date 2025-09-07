@@ -11,7 +11,7 @@ Pennsylvania, USA
 
 <figure> 
 <img 
-	src="Tomato Sauce cooking down 259.jpg" 
+	src="https://321oak.com/images/20250904_125622.jpg" 
 	alt="Tomato Sauce boiling in stock pot, getting ready to can."> 
 <figcaption>Tomato sauce cooking down.</figcaption> </figure>
 
