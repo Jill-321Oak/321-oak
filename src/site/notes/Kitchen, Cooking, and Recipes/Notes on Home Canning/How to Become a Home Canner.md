@@ -6,7 +6,7 @@
 by: Jill@321Oak
 Pennsylvania, USA
 
-## Canning is Easy!
+## Modern Tools Make Canning Easier!
 ![20250904_155845.jpg](/img/user/Images/20250904_155845.jpg)
 
 <figure> 
