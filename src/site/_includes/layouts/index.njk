@@ -9,7 +9,56 @@
     {% for imp in dynamics.index.head %}
       {% include imp %}
     {% endfor %}
-  
+  {# === 321 Oak • HOMEPAGE head: OG + JSON-LD (no BlogPosting) === #}
+{% set siteUrl  = "https://321oak.com" %}
+{% set siteName = "321 Oak" %}
+{% set desc     = "Practical life skills, learning, and everyday how-tos." %}
+{% set logoUrl  = "https://321oak.com/images/logo-321oak.png" %}
+{% set imageUrl = "https://321oak.com/images/welcome-321oak-1200x630.jpg" %}
+{% set pageUrl  = siteUrl + ((page and page.url) or "/") %}
+
+<meta name="description" content="{{ desc }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ siteName }}">
+<meta property="og:title" content="{{ siteName }}">
+<meta property="og:description" content="{{ desc }}">
+<meta property="og:url" content="{{ pageUrl }}">
+<meta property="og:image" content="{{ imageUrl }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ siteName | dump }},
+  "url": {{ siteUrl | dump }},
+  "description": {{ desc | dump }},
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ siteName | dump }},
+    "url": {{ siteUrl | dump }},
+    "logo": { "@type": "ImageObject", "url": {{ logoUrl | dump }} }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://321oak.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ siteName | dump }},
+  "url": {{ pageUrl | dump }},
+  "description": {{ desc | dump }},
+  "isPartOf": { "@type": "WebSite", "url": {{ siteUrl | dump }}, "name": {{ siteName | dump }} },
+  "inLanguage": "en",
+  "image": [ {{ imageUrl | dump }} ]
+}
+</script>
+
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
