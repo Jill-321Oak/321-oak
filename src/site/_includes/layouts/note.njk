@@ -3,6 +3,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
+
+<title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    {%include "components/pageheader.njk"%}
+    {% for imp in dynamics.common.head %}
+      {% include imp %}
+    {% endfor %}
+    {% for imp in dynamics.index.head %}
+      {% include imp %}
+    {% endfor %}
+ 
   <head>{# === 321 Oak • NOTE LAYOUT head: JSON-LD (safe dump, no ternaries) === #}
 {% set siteUrl       = "https://321oak.com" %}
 {% set siteName      = "321 Oak" %}
