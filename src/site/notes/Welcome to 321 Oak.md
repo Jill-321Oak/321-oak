@@ -1,50 +1,57 @@
 ---
-{"dg-publish":true,"dg-home":true,"status":["Published"],"permalink":"/welcome-to-321-oak/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"status":["Published"],"dg-metatags":{"title":"Welcome to 321 Oak: Life Skills & Learning","description":"Discover 321 Oak, a digital garden of life skills, learning, and everyday how-tos built from Jill's fifty years of lived experience.","og:title":"Welcome to 321 Oak: Life Skills & Learning","og:description":"Practical guides, personal stories, and everyday how-tos from Jill Stapleton at 321 Oak.","og:type":"article","og:url":"https://321oak.com/welcome-to-321-oak","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"Welcome to 321 Oak digital garden for life skills and learning"},"permalink":"/welcome-to-321-oak/","metatags":{"title":"Welcome to 321 Oak: Life Skills & Learning","description":"Discover 321 Oak, a digital garden of life skills, learning, and everyday how-tos built from Jill's fifty years of lived experience.","og:title":"Welcome to 321 Oak: Life Skills & Learning","og:description":"Practical guides, personal stories, and everyday how-tos from Jill Stapleton at 321 Oak.","og:type":"article","og:url":"https://321oak.com/welcome-to-321-oak","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"Welcome to 321 Oak digital garden for life skills and learning"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+# Life Skills, Learning & Everyday How-Tos
 
-# Welcome to 321 Oak
-
-9.4.25
-by: Jill@321Oak
+_September 4, 2025_  
+by: Jill@321Oak  
 Pennsylvania, USA
-### Hello World, 
 
-Welcome to 321 Oak. My name is Jill, and in this little corner of the web I'm going to start to write about life, learning, and the various skills, abilities and thoughts I've collected in 50 something years life.
+Welcome to 321 Oak. My name is Jill, and in this little corner of the web I’m going to write about life, learning, and the various skills, abilities, and thoughts I’ve collected over fifty-something years of life.
 
-I'm not exactly sure what it will become, and I imagine I'll update this page over time as I figure it out. I'm hoping to begin to document a collection of how to articles, general research on my hobbies and interests, and things that I've figured out over the years that might be useful to others.
+I’m not exactly sure what this site will become, and I imagine I’ll update this page over time as I figure it out. My hope is to document a collection of how-to articles, general research on my hobbies and interests, and lessons I’ve worked out over the years that might be useful to others.
 
-As my content collection grows, I'll be starting a YouTube channel, and I'll also post on Instagram, Pinterest, and Facebook. Feel free to follow me around the internet if you're interested in how this turns out.
+As my content collection grows, I’ll be starting a YouTube channel and posting on Instagram, Pinterest, and Facebook. Feel free to follow me around the internet if you’re curious to see how this turns out.
 
-Here's what I've been publishing lately: [[Kitchen, Cooking, and Recipes/Notes on Home Canning/How to Become a Home Canner\|How to Become a Home Canner]]
+Here’s what I’ve been publishing lately: [[Kitchen, Cooking, and Recipes/Notes on Home Canning/How to Become a Home Canner\|How to Become a Home Canner]]
 
-#### My Digital Garden
-A quick note about this particular site. I use a note taking program called Obsidian that I love more than is reasonable. The combination of that program, and a plug in called Digital Garden are the core infrastructure I'm using. 
+## My Digital Garden: Why I Built 321 Oak as a Digital Garden
 
-I've chosen this format because of the navigation options, because I'm going ad ree, and because it supports diverse but interconnected growth.
+A quick note about this site: I use a note-taking program called [Obsidian](https://obsidian.md/) that I love more than is reasonable. The combination of Obsidian and a plug-in called [Digital Garden](https://dg-docs.ole.dev/) is the core infrastructure I’m using.
 
-##### Navigation Options
-I really wanted a format that was very different than the usual blog. I want more structure than that enables. You will probably get to this site through some combination of internet search or links from my other media. Those links will take you directly to the article you're interested in. And if that's all you need, I hope you find the articles clear, concise, and simple to follow. 
+I chose this format because it offers flexible navigation, keeps the site ad-free, and supports diverse but interconnected growth.
 
-You'll eventually see quite a lot of links to other articles - many of these will be internal to this site. To navigate around as if you were reading a book, please feel free to explore the file tree to the left. To follow the rabbit warren of my content, explore the graph view to the left, it will show articles that are liked to this one. As you navigate to different nodes, you'll find different articles appear in the graph. If you would rather deep dive into the specific topic of the article you're reading, please see the links at the bottom of this page. They show all articles that are directly connected to this one.
+### Navigation Options: How to Navigate the Digital Garden
 
-##### Ad Free
-This site is, and I expect always will be, ad free. I personally hate getting to a recipe blog, for example, and having to navigate through a maze of ads - some of which pop up directly under my eyeballs. It's even worse when the ad itself is old or glitchy and crashes the page for a while. While I do hope to finance this project at some point, it will be through a combination of YouTube, partnerships, affiliate links, and product offerings - not through ads on the core site. 
+I wanted a format that was very different from the usual blog. You’ll probably arrive here through an internet search or a link from one of my other platforms. Those links will take you directly to the article you’re interested in. If that’s all you need, I hope you find the articles clear, concise, and simple to follow.
 
-This allows me the freedom to write as much or as little as the subject requires. I won't be trying to keep you captive by making you scroll past a dozen ads to get to what you really want to see. So, If you see a ridiculously long article here, you can be sure that it's because I'm trying to capture your interest and imagination for the purpose of entertainment and learning. I'm not trying to capture your eyeballs with the purpose of  racking up ad dollars.
+You’ll also see plenty of internal links to other articles. To navigate like a book, you can explore the file tree to the left. To follow the rabbit warren of connections, check out the graph view to the left; it shows articles that are linked to this one. As you move through different nodes, new articles will appear in the graph. If you’d rather dive deeper into the specific topic of the article you’re reading, scroll to the bottom of the page for direct links to related posts.
 
-##### Diverse but Interconnected
-On this site, I'll be writing about the things I'm interested in, things I've figured out in my first 50ish years, and things I'd like my kids to know as they grow up. It's a rather ... diverse ... set of interests. The digital garden style works for that because if you've come here looking for recipes, you can skip all the unrelated stuff and just go to the recipes file on the left. If you have no interest in canning tomatoes, but want to know about how I plan a kayaking trip, you can similarly skip all the home and kitchen content and get right to the river where you belong. 
+### Ad-Free: Why 321 Oak Is an Ad-Free Space
 
-To start with, check out my first few posts: [[Kitchen, Cooking, and Recipes/From Picking to Powder - Processing Tomatoes\|From Picking to Powder - Processing Tomatoes]], [[Kitchen, Cooking, and Recipes/Recipe - Simple Tomato Sauce\|Recipe - Simple Tomato Sauce]]
+This site is, and I expect always will be, ad-free. I dislike landing on a recipe blog only to wade through a maze of ads—some of which pop up directly under my eyeballs. It’s even worse when an outdated ad glitches and crashes the page.
 
-#### Join me!
+While I do hope to finance this project at some point, it will be through YouTube, partnerships, affiliate links, and product offerings—not by cluttering the site with ads.
 
-So, again, welcome to the site. I hope you love it here. Please join me on my other platforms as they become available. I'll link them below as I get them set up. In the mean time, please bookmark this site and come back and see what I'm doing. Eventually, I'll have an email list and a newsletter you can subscribe to to see what's new with 321 Oak. In the mean time, feel free to reach out and let me know if you have questions or comments about my content! 
+This gives me the freedom to write at the length a subject deserves. If you see a ridiculously long article here, you can be sure it’s because I’m trying to capture your interest and imagination for the sake of entertainment and learning—not just to capture your attention to rack up ad dollars.
 
-Email: jill+comments@321Oak
+### Diverse but Interconnected: A Diverse but Connected Collection of Life Skills
 
-Note:
+Here I’ll be writing about the things I care about, the lessons I’ve learned in my first fifty-ish years, and the things I’d like my kids to know as they grow up. It’s a pretty diverse set of interests, but the digital garden style makes that work.
+
+If you’re here for recipes, you can skip straight to the recipe file. If you’re not interested in canning tomatoes but want to know how I plan a kayaking trip, you can head straight to the river section.
+
+To start, check out these first few posts: [[From Picking to Powder – Processing Tomatoes\|From Picking to Powder – Processing Tomatoes]], [[Recipe – Simple Tomato Sauce\|Recipe – Simple Tomato Sauce]]
+
+## Join Me! Stay Connected with 321 Oak
+
+So, welcome to 321 Oak. I hope you love it here. Please join me on my other platforms as they become available—I’ll link them here as they’re set up. For now, bookmark this site and check back to see what I’m working on. Eventually, I’ll have an email list and newsletter you can subscribe to for updates.
+
+Feel free to reach out anytime if you have questions or comments about my content!
+
+**Email:** jill+comments@321Oak
+
+**Note:**
 - We use cookies for analytics. See our [[Policies and Other Details/Privacy Policy\|Privacy Policy]].
-- **Disclosure**: Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.
-
+- **Disclosure:** Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.
