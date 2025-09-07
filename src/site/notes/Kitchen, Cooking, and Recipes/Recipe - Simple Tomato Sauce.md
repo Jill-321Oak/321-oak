@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/recipe-simple-tomato-sauce/","noteIcon":""}
+{"dg-publish":true,"status":["Published"],"room":"Kitchen","type":"HowTo","recipe":true,"permalink":"/kitchen-cooking-and-recipes/recipe-simple-tomato-sauce/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -7,7 +7,7 @@
 by: Jill@321Oak
 Pennsylvania, USA
 ## The Simplest recipe for Tomato Sauce
-![20250904_105534.jpg](/img/user/02%20Utilities/Attachments/20250904_105534.jpg)
+![20250904_105534.jpg](/img/user/Images/20250904_105534.jpg)
 ### Making Tomato Juice, Sauce, or Paste
 
 Yield: 1 gallon tomatoes = 1/2 gallon juice = 1 quart sauce =  6 oz. paste

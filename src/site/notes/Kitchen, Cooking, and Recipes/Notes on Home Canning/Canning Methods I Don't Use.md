@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/canning-methods-i-don-t-use/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["methods I don't use","old time canning"],"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/canning-methods-i-don-t-use/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25

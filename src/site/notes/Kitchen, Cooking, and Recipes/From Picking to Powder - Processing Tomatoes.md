@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/from-picking-to-powder-processing-tomatoes/","noteIcon":""}
+{"dg-publish":true,"status":["Published"],"room":"Kitchen","type":"HowTo","recipe":false,"permalink":"/kitchen-cooking-and-recipes/from-picking-to-powder-processing-tomatoes/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -7,7 +7,7 @@
 by: Jill@321Oak
 Pennsylvania, USA
 ## Processing Tomatoes
-![20250904_125622.jpg](/img/user/02%20Utilities/Attachments/20250904_125622.jpg)
+![20250904_125622.jpg](/img/user/Images/20250904_125622.jpg)
 TL;DR: [[Kitchen, Cooking, and Recipes/Recipe - Simple Tomato Sauce\|Recipe - Simple Tomato Sauce]]
 
 We use a ton of tomato products every year. Tomato juice, sauce, paste, pasta sauces, enchilada sauces, soups and stews, delicious beans, one way or another - we use some kind of tomato product every week. 

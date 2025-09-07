@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/risks-of-home-canning/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["risks","risks of canning","risks of home canning"],"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/risks-of-home-canning/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-321-oak/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"status":["Published"],"permalink":"/welcome-to-321-oak/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

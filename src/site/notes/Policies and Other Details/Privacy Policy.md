@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/policies-and-other-details/privacy-policy/","noteIcon":""}
+{"dg-publish":true,"status":null,"permalink":"/policies-and-other-details/privacy-policy/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/the-canning-wars/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["canning wars","BtB vs. Rebel","BtB","Rebel"],"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/the-canning-wars/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25

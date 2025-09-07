@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/flat-sour/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"aliases":["flat sour"],"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/flat-sour/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25
