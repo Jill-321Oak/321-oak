@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/a-brief-history-of-canning/","noteIcon":""}
+{"dg-publish":true,"status":["Ready to publish"],"description":"A quick timeline of canning: from Appert’s glass jars in the 1800s, to Mason’s invention, to the USDA’s 1917 pressure canning guidance, and beyond—tracing how home canning evolved alongside food safety science.","dg-metatags":"description: \"From Appert to pressure canning: how science shaped home canning safety.\"","permalink":"/kitchen-cooking-and-recipes/notes-on-home-canning/a-brief-history-of-canning/","metatags":"description: \"From Appert to pressure canning: how science shaped home canning safety.\"","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 9.6.25
