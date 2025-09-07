@@ -9,17 +9,11 @@ Pennsylvania, USA
 ### Canning History Timeline (1800s–2000s)
 
 - In the early 1800s, Nicolas Appert invented the process of heat-treating food in sealed glass jars. He published his method in 1810{+ for food preservation}.
-    
 - In 1858, John Landis Mason invented the Mason jar - a three-part system - a threaded glass jar, a rubber ring, and a metal lid that popularized home canning.
-    
 - In the early 1900s in the United States, dozens to hundreds of botulism deaths per year were linked to home canning.
-    
 - In 1917, the USDA began recommending pressure canning for low-acid foods.
-    
 - In the 1920s and 1930s, research by Karl F. Meyer (UC Berkeley) and the USDA documented the heat resistance of _C. botulinum_ (the bacterium that causes botulism) and the processes needed to inactivate it.
-    
-    - They found that _C. botulinum_ spores can survive 5–6 hours of boiling in low-acid foods.
-        
+	- They found that C. *botulinum* spores can survive 5–6 hours of boiling in low-acid foods.
 - In the early 2000s, 20–25% of U.S. households were home canning. ([source](https://nchfp.uga.edu/papers/2007/canning_survey.html?utm_source=chatgpt.com))
 
 
