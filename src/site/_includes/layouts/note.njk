@@ -60,7 +60,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 {% endif %}
 
 {# Optional: set OG type dynamically (safe even if you also do this elsewhere) #}
-<meta property="og:type" content="{{ isHome ? 'website' : 'article' }}">
+{% if isHome %}
+<meta property="og:type" content="website">
+{% else %}
+<meta property="og:type" content="article">
+{% endif %}
+
 
 {# ----- HOMEPAGE: emit WebSite + WebPage ONLY (no BlogPosting/headline) ----- #}
 {% if isHome %}
