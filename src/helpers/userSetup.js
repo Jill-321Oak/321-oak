@@ -12,7 +12,9 @@ function userEleventySetup(eleventyConfig) {
   // Add Eleventy customizations here if needed.
 }
 
+// Export BOTH hook names for compatibility with different templates
 module.exports = {
-  useMarkdownSetup,
+  useMarkdownSetup,               // some templates call this
+  userMarkdownSetup: useMarkdownSetup, // others call this
   userEleventySetup,
 };
