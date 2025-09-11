@@ -42,6 +42,7 @@ loading="lazy"
 decoding="async"
 alt="Samsung Galaxy Watch 7 40mm on a wooden table, used for alarms and timers."
 >
+
 ### Pomodoro timers – and ADHD: meet the Orodomop timer!
 
 I just made a new word, and I love it. Pomodoro timers are a thing neurotypical people use to enhance focus. They lower the stress of starting a project, built-in breaks prevent fatigue and minimize distractions. If a distracting thought comes up, they're supposed to write it down to address later. It also (and I can relate to this one) allows them to notice how much time they're spending on a task.
@@ -57,6 +58,7 @@ loading="lazy"
 decoding="async"
 alt="SHOKZ OpenFit 2 open-ear earbuds in an open charging case on a wooden table."
 >
+
 #### 15-minute putter
 
 Puttering is moving about doing things in a relaxed way, without hurrying. This is what I do in my 15-minute breaks. I set a timer for 15 minutes and move around the house. I put dishes in the sink, change a load of laundry, clear off a countertop, pick an area and tidy it up. Nothing high concept, nothing hard, just a few minutes to put a little part of the house right.
