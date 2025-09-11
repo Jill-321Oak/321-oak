@@ -10,7 +10,7 @@
 by: Jill@321Oak  
 Pennsylvania, USA
 
-**TL;DR:** Alarms help you respect other people’s time and move through your day with less stress. If time blindness or hyperfocus trips you up, try a reverse Pomodoro (45 minutes on, 15 minutes off). Timers make the “little” tasks at home and work doable—use them often and with intention.
+**TL;DR:** Alarms can help you respect other people’s time and move through your day with less stress. If time blindness or hyperfocus trips you up, try a reverse Pomodoro (45 minutes on, 15 minutes off). Timers make the “little” tasks at home and work doable—use them often and with intention.
 
 ## The cure for time blindness, hyperfocus, and distractibility
 
