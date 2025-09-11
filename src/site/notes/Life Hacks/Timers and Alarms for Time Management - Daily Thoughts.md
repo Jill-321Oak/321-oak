@@ -3,11 +3,7 @@
 ---
 
 
-
-<img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_center/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg"
-alt="Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks."
->
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_center/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg" alt="Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks.">
 
 
 9.11.25  
@@ -39,12 +35,7 @@ What happens on holidays? Well, I have all the morning alarms grouped in a set t
 When I was working, my day started by reviewing my calendar and setting an alarm for two minutes before every meeting. Since I was in a very meeting-heavy job, my alarm could go off 6 or 8 times a day. But I'll tell you what – I was very rarely late to anything. Being late is incredibly disrespectful of other people's time and energy, so it has been important to me to build systems to prevent it.
 
 
-<img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_limit,w_auto:100:1200,dpr_auto,f_auto,q_auto/v1757614834/watch__IG_amfvfx.jpg"
-loading="lazy"
-decoding="async"
-alt="Samsung Galaxy Watch 7 40mm on a wooden table, used for alarms and timers."
->
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_limit,w_auto:100:1200,dpr_auto,f_auto,q_auto/v1757614834/watch__IG_amfvfx.jpg" loading="lazy" decoding="async" alt="Samsung Galaxy Watch 7 40mm on a wooden table, used for alarms and timers.">
 
 
 ### Pomodoro timers – and ADHD: meet the Orodomop timer!
@@ -56,14 +47,7 @@ For me, I most often don't need help maintaining focus. I get to do things I lov
 
 I do occasionally use them to start tasks I'm not excited about: paying bills, taxes, school forms, and other things I'm avoiding. And it does help me get past procrastination sometimes on “project”-like things. Way more useful for me, though, is the 15-minute “off” time in the Orodomop method.
 
-
-<img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_limit,w_auto:100:1200,dpr_auto,f_auto,q_auto/v1757614834/openfit2_k9dgug.jpg"
-loading="lazy"
-decoding="async"
-alt="SHOKZ OpenFit 2 open-ear earbuds in an open charging case on a wooden table."
->
-
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_limit,w_auto:100:1200,dpr_auto,f_auto,q_auto/v1757614834/openfit2_k9dgug.jpg" loading="lazy" decoding="async" alt="SHOKZ OpenFit 2 open-ear earbuds in an open charging case on a wooden table." >
 
 #### 15-minute putter
 
