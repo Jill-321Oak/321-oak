@@ -1,13 +1,9 @@
 {
-    "outputDirectory": "dist",
-    "installCommand": "npm install",
-    "buildCommand": "npm run build",
-    "devCommand": "npm run start",
-    "routes": [
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "status": 404, "dest": "/404" }
-      ],
-    "headers": [
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run start",
+  "headers": [
     {
       "source": "/(.*)",
       "headers": [
@@ -21,3 +17,4 @@
     }
   ]
 }
+
