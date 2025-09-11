@@ -6,5 +6,18 @@
     "routes": [
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
+      ],
+    "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Accept-CH", "value": "DPR, Width, Viewport-Width" },
+        { "key": "Critical-CH", "value": "DPR, Width, Viewport-Width" },
+        {
+          "key": "Permissions-Policy",
+          "value": "ch-dpr=(self \"https://res.cloudinary.com\"), ch-width=(self \"https://res.cloudinary.com\"), ch-viewport-width=(self \"https://res.cloudinary.com\")"
+        }
       ]
+    }
+  ]
 }
