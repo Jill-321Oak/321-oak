@@ -29,7 +29,7 @@ Here's a quick one today, folks: dried tomatoes. I love them for so many reasons
 You can, of course, use other drying methods for these:
 - In the sun: For actual sun-dried tomatoes, choose a hot, sunny day and spread them out on a drying rack or cloth outdoors.
 - In the oven: Use silicone mats or parchment paper, spread the tomatoes out on large baking sheets, and set the oven as low as it will go. If it's higher than about 140 °F, leave the oven cracked a little.
-+ _Tip:_ Always label jars with the date so you know how long they've been stored.
+- _Tip:_ Always label jars with the date so you know how long they've been stored.
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap:10px; width:100%; max-width:100%; margin:0 auto;">
