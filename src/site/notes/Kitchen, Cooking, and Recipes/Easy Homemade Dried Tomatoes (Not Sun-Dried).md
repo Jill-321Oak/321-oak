@@ -45,6 +45,16 @@ This is probably obvious to everyone else, but I didn't think of it at first. Wh
 
 + Looking for more ways to preserve tomatoes? Check out [[Kitchen, Cooking, and Recipes/Processing Tomatoes at Home - From Picking to Powder\|Processing Tomatoes at Home - From Picking to Powder]] and [[Kitchen, Cooking, and Recipes/Simple Tomatoes Recipe (Juice, Sauce or Paste)\|Simple Tomatoes Recipe (Juice, Sauce or Paste)]].
 
+## Equipment list
+
+- Dehydrators: 
+	- I have an older model, but [this](https://amzn.to/3K3rPai) is the current 10 tray Excalibur dehydrator. 
+	- I also have the smaller 4 tray model [here](https://amzn.to/4gnEK2X).
+	- and a much older model that is similar to [this](https://amzn.to/4pCQgMn) budget friendly round dehydrator
+- Mats:
+	- I have the [flat](https://amzn.to/462MSm7) and [rimmed](https://amzn.to/462MSm7) silicone mats - which are awesome for sauces and fruit leather.
+	- I also have these [round](https://amzn.to/3Vh26h5) ones for my older dehydrator.
+
 Links:
 YouTube
 [Instagram](https://www.instagram.com/jill_321oak/)
