@@ -1,0 +1,55 @@
+---
+{"dg-publish":true,"status":null,"aliases":["dried tomatoes"],"dg-metatags":{"title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","description":"Learn how to dehydrate tomatoes at home with a dehydrator, oven, or sun drying. Easy storage tips and versatile uses for your pantry.","og:title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","og:description":"Step-by-step guide to drying tomatoes at home with a dehydrator or oven. Great for storage, snacks, and cooking.","og:type":"article","og:url":"https://321oak.com/path/to/post","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Cherry and slicing tomatoes on dehydrator trays"},"permalink":"/kitchen-cooking-and-recipes/easy-homemade-dried-tomatoes-not-sun-dried/","metatags":{"title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","description":"Learn how to dehydrate tomatoes at home with a dehydrator, oven, or sun drying. Easy storage tips and versatile uses for your pantry.","og:title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","og:description":"Step-by-step guide to drying tomatoes at home with a dehydrator or oven. Great for storage, snacks, and cooking.","og:type":"article","og:url":"https://321oak.com/path/to/post","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Cherry and slicing tomatoes on dehydrator trays"},"dgPassFrontmatter":true,"noteIcon":""}
+---
+
+9.12.25
+by: Jill@321Oak
+Pennsylvania, USA
+
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg" alt="- Cherry and slicing tomatoes on dehydrator trays.">
+## Easy and Tasty! Homemade Dried Tomatoes
+
+Here's a quick one today, folks: dried tomatoes. I love them for so many reasons.
+- They're incredibly tasty just as they are. I snack on these like they're crackers.
+- Store them in olive oil, and you get a classic for Italian food that can be used in all kinds of dishes, from pasta to salads to pizza!
+- Store them in a vacuum-sealed jar with a moisture absorber and an oxygen absorber, and I think they'll last basically forever.
+- Store them in a jar in your fridge, and they'll also last for an incredibly long time. I just found some in the back of my top shelf from last year, and they were still crunchy and perfect.
+- Grind them into powder and use it for a quick blast of tomato flavor in any sauce or soup. Also, this is the primary ingredient in my favorite backpacking pasta dishes.
+## How to Dehydrate Tomatoes
+
+1. Wash and dry your tomatoes.
+2. Slice the bigger ones; cut cherries in half.
+3. Spread in your dehydrator; optional – sprinkle with a little salt.
+4. Dry for 12–24 hours. If your dehydrator has an adjustable temperature, it should be about 135 °F.
+5. When they're done, try to get them in a jar and stored away before they're all eaten. (I failed that step on this batch.)    
+
+## Other Tomato Drying Methods
+
+You can, of course, use other drying methods for these:
+- In the sun: For actual sun-dried tomatoes, choose a hot, sunny day and spread them out on a drying rack or cloth outdoors.
+- In the oven: Use silicone mats or parchment paper, spread the tomatoes out on large baking sheets, and set the oven as low as it will go. If it's higher than about 140 °F, leave the oven cracked a little.
++ _Tip:_ Always label jars with the date so you know how long they've been stored.
+
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_4:5,c_fill,w_1080,f_auto,q_auto/v1757682911/dehydrating-tomatoes-food-dehydrator-20250904_ephia2.jpg" alt="Food dehydrator with trays of tomatoes.">
+
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/food-dehydrator-drying-guide-20250904_blhmt2.jpg" alt="Food Dehydrator Drying Guide Panel.">
+
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/dehydrating-tomatoes-silicone-mats-20250904_m4xow9.jpg" alt="Bright Kitchen silicone mats inside a food dehydrator.">
+
+## Bonus Tip
+
+This is probably obvious to everyone else, but I didn't think of it at first. When you're done washing your dehydrator racks, or silicone mats like these... don't leave them on the counter to dry—put them in the machine and turn it on for a few minutes!
+
++ Looking for more ways to preserve tomatoes? Check out [[Kitchen, Cooking, and Recipes/Processing Tomatoes at Home - From Picking to Powder\|Processing Tomatoes at Home - From Picking to Powder]] and [[Kitchen, Cooking, and Recipes/Simple Tomatoes Recipe (Juice, Sauce or Paste)\|Simple Tomatoes Recipe (Juice, Sauce or Paste)]].
+
+Links:
+YouTube
+[Instagram](https://www.instagram.com/jill_321oak/)
+Pinterest
+Facebook
+Amazon Store
+
+Note:
+- **Cookies**: We use cookies for analytics. See our [[Policies and Other Details/Privacy Policy\|Privacy Policy]].
+- **Disclosure**: Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.

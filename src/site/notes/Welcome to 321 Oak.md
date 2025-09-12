@@ -14,7 +14,7 @@ I’m not exactly sure what this site will become, and I imagine I’ll update t
 
 As my content collection grows, I’ll be starting a YouTube channel and posting on Instagram, Pinterest, and Facebook. Feel free to follow me around the internet if you’re curious to see how this turns out.
 
-Here’s what I’ve been publishing lately: [[Life Hacks/Timers and Alarms for Time Management - Daily Thoughts\|Timers and Alarms for Time Management - Daily Thoughts]]
+Here’s what I’ve been publishing lately: [[Life Hacks/Timers and Alarms for Time Management - Daily Thoughts\|Timers and Alarms for Time Management - Daily Thoughts]], [[Kitchen, Cooking, and Recipes/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
 
 ## My Digital Garden: Why I Built 321 Oak as a Digital Garden
 
