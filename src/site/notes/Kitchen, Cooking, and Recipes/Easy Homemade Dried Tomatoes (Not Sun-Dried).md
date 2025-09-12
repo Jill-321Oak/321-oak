@@ -31,7 +31,8 @@ You can, of course, use other drying methods for these:
 - In the oven: Use silicone mats or parchment paper, spread the tomatoes out on large baking sheets, and set the oven as low as it will go. If it's higher than about 140 °F, leave the oven cracked a little.
 + _Tip:_ Always label jars with the date so you know how long they've been stored.
 
-<div style="display:flex; gap:10px;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap:10px; width:100%; max-width:100%; margin:0 auto;">
 <img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/dehydrating-tomatoes-silicone-mats-20250904_m4xow9.jpg" alt="Food dehydrator with tomatoes and silicone mats.">
 <img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/food-dehydrator-drying-guide-20250904_blhmt2.jpg" alt="Food Dehydrator Drying Guide Panel.">
 <img
