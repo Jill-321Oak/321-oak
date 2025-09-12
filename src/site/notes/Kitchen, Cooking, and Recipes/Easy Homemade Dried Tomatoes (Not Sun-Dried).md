@@ -7,6 +7,7 @@ by: Jill@321Oak
 Pennsylvania, USA
 
 <img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg" alt="- Cherry and slicing tomatoes on dehydrator trays.">
+
 ## Easy and Tasty! Homemade Dried Tomatoes
 
 Here's a quick one today, folks: dried tomatoes. I love them for so many reasons.
@@ -30,12 +31,11 @@ You can, of course, use other drying methods for these:
 - In the oven: Use silicone mats or parchment paper, spread the tomatoes out on large baking sheets, and set the oven as low as it will go. If it's higher than about 140 °F, leave the oven cracked a little.
 + _Tip:_ Always label jars with the date so you know how long they've been stored.
 
-<img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_4:5,c_fill,w_1080,f_auto,q_auto/v1757682911/dehydrating-tomatoes-food-dehydrator-20250904_ephia2.jpg" alt="Food dehydrator with trays of tomatoes.">
-
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/dehydrating-tomatoes-silicone-mats-20250904_m4xow9.jpg" alt="Food dehydrator with tomatoes and silicone mats.">
 <img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/food-dehydrator-drying-guide-20250904_blhmt2.jpg" alt="Food Dehydrator Drying Guide Panel.">
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/bright-kitchen-silicone-mats-dehydrator-20250904_fp4imk.jpg" alt="Bright Kitchen silicone mats inside a food dehydrator.">
 
-<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/ar_1:1,c_fill,g_auto,w_400,f_auto,q_auto/v1757682911/dehydrating-tomatoes-silicone-mats-20250904_m4xow9.jpg" alt="Bright Kitchen silicone mats inside a food dehydrator.">
 
 ## Bonus Tip
 
