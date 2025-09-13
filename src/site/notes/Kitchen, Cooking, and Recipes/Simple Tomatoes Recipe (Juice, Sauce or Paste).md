@@ -34,7 +34,7 @@ Store in the fridge for a couple of days, the freezer for a year, or can them, a
 
 Key measures:
 - Citric acid: 1/4 tsp for pints, 1/2 tsp for quarts
-- Pressure canning at less than 1,000 ft using 10-11 lbs pressure: 15 minutes ([source](https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/standard-tomato-sauce/))
+- Pressure canning, less than 1,000 ft at 10-11 lbs: 15 minutes ([source](https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/standard-tomato-sauce/))
 
 ### Related Recipes
 
