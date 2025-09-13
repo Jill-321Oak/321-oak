@@ -30,7 +30,7 @@ Yield: 1 gallon tomatoes = 1/2 gallon juice = 1 quart sauce = 6 oz. paste (appro
 
 ### Processing and Storage
 
-Store in the fridge for a couple of days, the freezer for a year, or can them, and they’ll last for decades. I’m at sea level, and I pressure can quarts of juice or sauce for 50 minutes. Anything that doesn’t seal goes in the fridge, where it will now last for a month, or the freezer.
+Store in the fridge for a couple of days, the freezer for a year, or can them, and they’ll last for decades. I’m at sea level, and I pressure can quarts of juice or sauce for 15 minutes (I'm at sea level, and canning at 10 psi. Canning times differ based on altitude and pressure, so look it up!). Anything that doesn’t seal goes in the fridge, where it will now last for a month, or the freezer.
 
 ### Related Recipes
 
