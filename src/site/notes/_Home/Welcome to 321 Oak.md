@@ -9,7 +9,7 @@
 by: Jill@321Oak  
 Pennsylvania, USA
 
-I’m Jill—mom, early retiree, and lifelong problem-solver. I built a successful career and invested wisely and that's allowed me to retire, but my real work has always been figuring out how to make life run better. From raising kids to work, cooking, gardening, and managing money, I’ve spent a lifetime testing systems that actually work. Now I share those shortcuts so you can skip the overwhelm and take the next step toward your own success.
+I’m Jill—mom, early retiree, and lifelong problem-solver. I built a successful career and invested wisely and that's allowed me to retire, but my real work has always been figuring out how to make things easier. I do a lot of personal process development and improvement. From raising kids to work, cooking, gardening, and managing money, I’ve spent a lifetime testing systems that actually work. Now I share those shortcuts so you can skip the overwhelm and take the next step toward your own success.
 
 I’m not exactly sure what this site will become, and I imagine I’ll update this page over time as I figure it out. My hope is to document a collection of how-to articles, general research on my hobbies and interests, and lessons I’ve worked out over the years that might be useful to others.
 
