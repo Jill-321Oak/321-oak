@@ -2,6 +2,13 @@
 {"title":"Welcome to 321 Oak","aliases":null,"dg-date":"2025-09-25","dg-publish":true,"dg-home":true,"dg-position":1,"weight":1,"dg-metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"permalink":"/1-home/welcome-to-321-oak/","metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+# What's new?
+
+Check out my  new [[1 Home/Index\|Index]] page, which will show you all my posts sorted by most recent. Or, for a quicker view on my last several posts, here’s what I’ve been publishing lately: 
+- [[1 Home/Index\|Index]]
+- [[2 Life Hacks/Timers and Alarms for Time Management\|Timers and Alarms for Time Management]]
+- [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
+
 # Life Skills, Learning & Everyday How-Tos
 
 9.4.25
@@ -13,8 +20,6 @@ I’m Jill—mom, early retiree, and lifelong problem-solver. I built a successf
 I’m not exactly sure what this site will become, and I imagine I’ll update this page over time as I figure it out. My hope is to document a collection of how-to articles, general research on my hobbies and interests, and lessons I’ve worked out over the years that might be useful to others.
 
 As my content collection grows, I’ll be starting a YouTube channel and posting on Instagram, Pinterest, and Facebook. Feel free to follow me around the internet if you’re curious to see how this turns out.
-
-Here’s what I’ve been publishing lately: [[2 Life Hacks/Timers and Alarms for Time Management\|Timers and Alarms for Time Management]], [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
 
 ## My Digital Garden: Why I Built 321 Oak as a Digital Garden
 
