@@ -3,131 +3,15 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
-
-<title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+  <head>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
     {% endfor %}
-    {% for imp in dynamics.index.head %}
+    {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
- 
-  <head>{# === 321 Oak • NOTE LAYOUT head: JSON-LD (safe dump, no ternaries) === #}
-{% set siteUrl       = "https://321oak.com" %}
-{% set siteName      = "321 Oak" %}
-{% set defaultImage  = "https://321oak.com/images/welcome-321oak-1200x630.jpg" %}
-{% set defaultDesc   = "Practical life skills, learning, and everyday how-tos." %}
-{% set defaultAuthor = "Jill Stapleton" %}
-{% set authorUrl     = siteUrl + "/about" %}
-{% set logoUrl       = "https://321oak.com/images/logo-321oak.png" %}
-
-{# Per-page frontmatter (Digital Garden) #}
-{% set fm = (page and page.data and page.data['dg-metatags']) or {} %}
-
-{# Core values with fallbacks #}
-{% set ldTitle     = fm.title or (title) or siteName %}
-{% set ldDesc      = fm.description or defaultDesc %}
-{% set ldImageUrl  = fm['og:image'] or defaultImage %}
-{% set ldImageW    = fm['og:image:width'] %}
-{% set ldImageH    = fm['og:image:height'] %}
-
-{# URL + homepage detection (covers "/", "/index/", "/index.html") #}
-{% set pagePath = (page and page.url) or "/" %}
-{% set isHome = pagePath == "/" or pagePath == "/index/" or pagePath == "/index.html" %}
-{% set pageUrl = siteUrl + pagePath %}
-
-{# Dates without custom filters #}
-{% if page and page.date %}
-  {% set publishedDate = page.date.toISOString().slice(0,10) %}
-  {% set modifiedDate  = page.date.toISOString().slice(0,10) %}
-{% else %}
-  {% set publishedDate = null %}
-  {% set modifiedDate  = null %}
-{% endif %}
-
-{# Image node: ImageObject if we have dimensions; otherwise string URL #}
-{% set imageNode = ldImageUrl %}
-{% if ldImageW and ldImageH %}
-  {% set imageNode = {
-    "@type": "ImageObject",
-    "url": ldImageUrl,
-    "width": ldImageW,
-    "height": ldImageH
-  } %}
-{% endif %}
-
-{# Dynamic OG type without ternary #}
-{% if isHome %}
-<meta property="og:type" content="website">
-{% else %}
-<meta property="og:type" content="article">
-{% endif %}
-
-{# ----- HOMEPAGE: emit WebSite + WebPage ONLY (no BlogPosting/headline) ----- #}
-{% if isHome %}
-
-  {% set websiteJSON = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": siteName,
-    "url": siteUrl,
-    "description": ldDesc,
-    "publisher": {
-      "@type": "Organization",
-      "name": siteName,
-      "url": siteUrl,
-      "logo": { "@type": "ImageObject", "url": logoUrl }
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://321oak.com/?s={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
-  } %}
-
-  {% set webPageJSON = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": ldTitle,
-    "url": pageUrl,
-    "description": ldDesc,
-    "isPartOf": { "@type": "WebSite", "url": siteUrl, "name": siteName },
-    "inLanguage": "en",
-    "image": [ imageNode ]
-  } %}
-
-  <script type="application/ld+json">{{ websiteJSON | dump | safe }}</script>
-  <script type="application/ld+json">{{ webPageJSON | dump | safe }}</script>
-
-{% else %}
-
-{# ----- INNER PAGES: emit BlogPosting ----- #}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": {{ ldTitle | dump | safe }},
-    "description": {{ ldDesc | dump | safe }},
-    "url": {{ pageUrl | dump | safe }},
-    "mainEntityOfPage": { "@type": "WebPage", "@id": {{ pageUrl | dump | safe }} },
-    "author": { "@type": "Person", "name": {{ defaultAuthor | dump | safe }}, "url": {{ authorUrl | dump | safe }} },
-    "publisher": {
-      "@type": "Organization",
-      "name": {{ siteName | dump | safe }},
-      "logo": { "@type": "ImageObject", "url": {{ logoUrl | dump | safe }} }
-    }{% if publishedDate %},
-    "datePublished": {{ publishedDate | dump | safe }}{% endif %}{% if modifiedDate %},
-    "dateModified": {{ modifiedDate | dump | safe }}{% endif %},
-    "image": [ {{ imageNode | dump | safe }} ],
-    "inLanguage": "en",
-    "articleSection": "Introduction"
-  }
-  </script>
-
-{% endif %}
-
-
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
@@ -183,7 +67,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-     {{ content | hideDataview | taggify | link | safe }}
+      {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
