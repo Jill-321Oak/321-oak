@@ -9,11 +9,13 @@ Check out my  new [[1 Home/Index\|Index]] page, which will show you all my posts
 - [[2 Life Hacks/Timers and Alarms for Time Management\|Timers and Alarms for Time Management]]
 - [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
 
-# Life Skills, Learning & Everyday How-Tos
+## What is 321 Oak?
 
 9.4.25
 by: Jill@321Oak  
 Pennsylvania, USA
+
+321 Oak is the website home to my new education/lifestyle content group. It will eventually include videos on YouTube, books from amazon (the first one is in editing already!), and a group of social media outlets.
 
 I’m Jill—mom, early retiree, and lifelong problem-solver. I built a successful career and invested wisely and that's allowed me to retire, but my real work has always been figuring out how to make things easier. I do a lot of personal process development and improvement. From raising kids to work, cooking, gardening, and managing money, I’ve spent a lifetime testing systems that actually work. Now I share those shortcuts so you can skip the overwhelm and take the next step toward your own success.
 
