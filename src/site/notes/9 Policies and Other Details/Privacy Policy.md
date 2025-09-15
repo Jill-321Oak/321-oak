@@ -1,5 +1,5 @@
 ---
-{"title":"Privacy Policy","aliases":null,"dg-date":"2025-09-05","dg-publish":true,"dg-home":false,"dg-position":9999999,"weight":9999999,"permalink":"/9-policies-and-other-details/privacy-policy/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Privacy Policy","aliases":null,"dg-date":"2025-09-05","dg-publish":true,"dg-home":false,"dg-position":9999999,"weight":9999999,"permalink":"/9-policies-and-other-details/privacy-policy/","dgPassFrontmatter":true}
 ---
 
 
@@ -103,8 +103,7 @@ We may update this Privacy Policy from time to time. Significant changes will be
 
 If you have any questions about this Privacy Policy, please contact us:
 
-321 Oak  
-jill+Privacy@gmail.com
+Email: jill+Privacy@321oak.com
 
 
 Note:
