@@ -2,7 +2,7 @@
 {"title":"Welcome to 321 Oak","aliases":null,"dg-date":"2025-09-25","dg-publish":true,"dg-home":true,"dg-position":1,"weight":1,"dg-metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"permalink":"/1-home/welcome-to-321-oak/","metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-# What's new?
+## What's new?
 
 Check out my  new [[1 Home/Index\|Index]] page, which will show you all my posts sorted by most recent. Or, for a quicker view on my last several posts, here’s what I’ve been publishing lately: 
 - [[1 Home/Index\|Index]]
