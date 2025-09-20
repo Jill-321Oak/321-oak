@@ -3,8 +3,6 @@
 ---
 
 
-## Video Index
-
 ### September 2025
 - Making Tomato Juice - The short cut: [How to Make Fresh Tomato Juice | Easy Home Canning Starter (321 Oak) - Just the Facts](https://youtu.be/mcQH0LguRhc)
 
