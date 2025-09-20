@@ -4,8 +4,11 @@
 
 ## What's new?
 
-Check out my  new [[1 Home/Index\|Index]] page, which will show you all my posts sorted by most recent. Or, for a quicker view on my last several posts, here’s what I’ve been publishing lately: 
-- [[1 Home/Index\|Index]]
+Check out my  new [[1 Home/Article Index\|Article Index]] page, which will show you all my posts sorted by most recent. Also, my [[1 Home/Video Index\|Video Index]] which shows all of my published and scheduled YouTube videos. 
+
+For a quicker view on my last several posts, here’s what I’ve been publishing lately: 
+- [[1 Home/Article Index\|Article Index]]
+- [[1 Home/Video Index\|Video Index]]
 - [[2 Life Hacks/Timers and Alarms for Time Management\|Timers and Alarms for Time Management]]
 - [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
 
@@ -57,7 +60,7 @@ So, welcome to 321 Oak. I hope you love it here. Please join me on my other plat
 
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
-YouTube
+[YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)

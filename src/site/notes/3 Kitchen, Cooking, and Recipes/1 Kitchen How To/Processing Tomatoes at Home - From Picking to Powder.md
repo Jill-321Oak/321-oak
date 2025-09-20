@@ -9,7 +9,7 @@ Pennsylvania, USA
 
 ## Processing Tomatoes at Home
 
-![20250904_125622.jpg](/img/user/Working/images/20250904_125622.jpg)  
+![20250904_125622.jpg](/img/user/images/20250904_125622.jpg)  
 _Caption: Washing, blending, straining, and simmering fresh tomatoes for sauce._  
 
 Video: https://youtu.be/mcQH0LguRhc
@@ -80,7 +80,7 @@ I use tomato sauce and paste all the time. As I get more recipes added to this s
 
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
-YouTube
+[YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)

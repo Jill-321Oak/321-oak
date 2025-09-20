@@ -8,7 +8,7 @@ Pennsylvania, USA
 
 ## Modern Tools Make Home Canning Easier
 
-![20250904_155845.jpg](/img/user/Working/images/20250904_155845.jpg)  
+![20250904_155845.jpg](/img/user/images/20250904_155845.jpg)  
  _Caption: Electric pressure canner on a kitchen counter._
 
 With modern tools(from electric canners to “Hey Google, set a timer”) canning is much more accessible to hobbyists than it has ever been. And OK, maybe not “easy,” but certainly easier. When I started out, I made the very, very smart decision to get an electric pressure canner. I use it all the time, and I love it. With tools like this, and a little reading, you’ll be off to the races in no time.
@@ -104,7 +104,7 @@ Here’s a collection of related articles if you’re ready to start your trip d
 
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
-YouTube
+[YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)

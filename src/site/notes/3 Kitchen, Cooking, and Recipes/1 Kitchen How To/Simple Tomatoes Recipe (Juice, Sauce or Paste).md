@@ -9,7 +9,7 @@ Pennsylvania, USA
 
 ## Simple Tomato Sauce Recipe
 
-![20250904_105534.jpg](/img/user/Working/images/20250904_105534.jpg)  
+![20250904_105534.jpg](/img/user/images/20250904_105534.jpg)  
 _Caption: Strained tomato sauce simmering in a heavy-bottomed pot._
 
 https://youtu.be/mcQH0LguRhc
@@ -47,7 +47,7 @@ Key measures:
 
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
-YouTube
+[YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
