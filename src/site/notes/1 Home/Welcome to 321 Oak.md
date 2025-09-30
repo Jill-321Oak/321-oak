@@ -4,13 +4,19 @@
 
 ## What's new?
 
+I've just uploaded the last video in my tomato sauce series, please check them out! 
+these are the first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
+1. [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
+2. [Make Tomato Juice - Ramble Cut](https://www.youtube.com/watch?v=ADo-2l0On-A&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=2) 
+3. [Turn Juice into Sauce](https://www.youtube.com/watch?v=NXhu7bsMcc8&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=3)
+4. [Can Tomato Sauce for the Pantry](https://www.youtube.com/watch?v=fcpO4EAP_IA&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=4&t=1s&pp=gAQBiAQBsAQB) (coming soon - check after 10/1 at 4pm)
+5. [How to use a presto precise digital canner](https://www.youtube.com/watch?v=wD_TgD6hW1I&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=5&pp=gAQBiAQBsAQB) (coming soon - check after 10/4 at 10 am)
+
 Check out my  new [[1 Home/Article Index\|Article Index]] page, which will show you all my posts sorted by most recent. Also, my [[1 Home/Video Index\|Video Index]] which shows all of my published and scheduled YouTube videos. 
 
 For a quicker view on my last several posts, here’s what I’ve been publishing lately: 
 - [[1 Home/Article Index\|Article Index]]
 - [[1 Home/Video Index\|Video Index]]
-- [[2 Life Hacks/Timers and Alarms for Time Management\|Timers and Alarms for Time Management]]
-- [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Easy Homemade Dried Tomatoes (Not Sun-Dried)\|Easy Homemade Dried Tomatoes (Not Sun-Dried)]]
 
 ## What is 321 Oak?
 
