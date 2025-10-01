@@ -1,7 +1,11 @@
 ---
-{"title":"Botulism Facts","aliases":["botulism facts","botulism","C. botulinum"],"dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Botulism Facts: Sources, Safety & Key Points","description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:title":"Botulism Facts: Sources, Safety & Key Points","og:description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:type":"article","og:url":"https://321oak.com/botulism-facts","og:site_name":"321 Oak","og:image":"https://321oak.com/images/botulism-facts-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/botulism-facts-1200x630.jpg","twitter:image:alt":"Botulism facts: safety basics for home canning"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/botulism-facts/","metatags":{"title":"Botulism Facts: Sources, Safety & Key Points","description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:title":"Botulism Facts: Sources, Safety & Key Points","og:description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:type":"article","og:url":"https://321oak.com/botulism-facts","og:site_name":"321 Oak","og:image":"https://321oak.com/images/botulism-facts-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/botulism-facts-1200x630.jpg","twitter:image:alt":"Botulism facts: safety basics for home canning"},"dgPassFrontmatter":true}
+{"title":"Botulism Facts","aliases":["botulism facts","botulism","C. botulinum"],"dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Botulism Facts: Sources, Safety & Key Points","description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:title":"Botulism Facts: Sources, Safety & Key Points","og:description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/botulism-facts/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/botulism-facts/","metatags":{"title":"Botulism Facts: Sources, Safety & Key Points","description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:title":"Botulism Facts: Sources, Safety & Key Points","og:description":"Evidence-based botulism facts: toxin basics, risks in low-acid foods, pressure-canning guidance, and authoritative sources.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/botulism-facts/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"dgPassFrontmatter":true}
 ---
 
+
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg" alt="Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them."
+>
 
 9.6.25
 by: Jill@321Oak
@@ -36,7 +40,7 @@ Feel free to reach out anytime if you have questions or comments about my conten
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:

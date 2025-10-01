@@ -1,10 +1,15 @@
 ---
-{"title":"A Brief History of Canning","aliases":"history of canning","dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/home-canning-history-timeline","og:site_name":"321 Oak","og:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","twitter:image:alt":"Historical images of home canning from Appert to USDA guidance"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/a-brief-history-of-canning/","metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/home-canning-history-timeline","og:site_name":"321 Oak","og:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/canning-timeline-1200x630.jpg","twitter:image:alt":"Historical images of home canning from Appert to USDA guidance"},"dgPassFrontmatter":true}
+{"title":"A Brief History of Canning","aliases":"history of canning","dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/a-brief-history-of-canning/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/a-brief-history-of-canning/","metatags":{"title":"Home Canning History Timeline (1800s–2000s)","description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:title":"Home Canning History Timeline (1800s–2000s)","og:description":"From Appert and Mason jars to USDA pressure canning, trace the key milestones that shaped safe home canning.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/a-brief-history-of-canning/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"dgPassFrontmatter":true}
 ---
 
 9.6.25
 by: Jill@321Oak
 Pennsylvania, USA
+
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg" alt="Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them."
+>
+
 
 ### Canning History Timeline (1800s–2000s)
 
@@ -23,7 +28,7 @@ Feel free to reach out anytime if you have questions or comments about my conten
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:

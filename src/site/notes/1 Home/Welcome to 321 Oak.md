@@ -1,6 +1,10 @@
 ---
-{"title":"Welcome to 321 Oak","aliases":null,"dg-date":"2025-09-25","dg-publish":true,"dg-home":true,"dg-position":1,"weight":1,"dg-metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"permalink":"/1-home/welcome-to-321-oak/","metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/welcome-321oak-1200x630.jpg","twitter:image:alt":"321 Oak homepage"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"Welcome to 321 Oak","aliases":null,"dg-date":"2025-09-25","dg-publish":true,"dg-home":true,"dg-position":1,"weight":1,"dg-metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg"},"permalink":"/1-home/welcome-to-321-oak/","metatags":{"title":"321 Oak","description":"Practical life skills, learning, and everyday how-tos.","og:type":"website","og:title":"321 Oak","og:description":"Practical life skills, learning, and everyday how-tos.","og:url":"https://321oak.com/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg"},"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
+
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg" alt="A wide field of tall yellow sunflowers facing the sky under partly cloudy blue skies."
+>
 
 ## What's new?
 
@@ -70,7 +74,7 @@ Feel free to reach out anytime if you have questions or comments about my conten
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:

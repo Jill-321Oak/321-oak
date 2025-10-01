@@ -1,16 +1,16 @@
 ---
-{"title":"Simple Tomatoes Recipe (Juice, Sauce or Paste)","aliases":"tomatoes recipe","dg-date":"2025-09-04","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/recipe-simple-tomato-sauce","og:site_name":"321 Oak","og:image":"https://321oak.com/images/simple-tomato-sauce-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/simple-tomato-sauce-1200x630.jpg","twitter:image:alt":"Simple tomato sauce simmering in a heavy-bottomed pot"},"permalink":"/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/recipe-simple-tomato-sauce","og:site_name":"321 Oak","og:image":"https://321oak.com/images/simple-tomato-sauce-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/simple-tomato-sauce-1200x630.jpg","twitter:image:alt":"Simple tomato sauce simmering in a heavy-bottomed pot"},"dgPassFrontmatter":true}
+{"title":"Simple Tomatoes Recipe (Juice, Sauce or Paste)","aliases":"tomatoes recipe","dg-date":"2025-09-04","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg","og:image:width":"1200","og:image:height":"630"},"permalink":"/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg","og:image:width":"1200","og:image:height":"630"},"dgPassFrontmatter":true}
 ---
 
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg" alt="A blender packed with cherry and Roma tomatoes, ready to puree for sauce."
+>
 
 9.4.25
 by: Jill@321Oak
 Pennsylvania, USA
 
 ## Simple Tomato Sauce Recipe
-
-![20250904_105534.jpg](/img/user/images/20250904_105534.jpg)  
-_Caption: Strained tomato sauce simmering in a heavy-bottomed pot._
 
 https://youtu.be/mcQH0LguRhc
 
@@ -39,11 +39,25 @@ Key measures:
 - Citric acid: 1/4 tsp for pints, 1/2 tsp for quarts
 - Pressure canning, less than 1,000 ft at 10-11 lbs: 15 minutes ([source](https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/standard-tomato-sauce/))
 
-### Related Recipes
+### Article and Resource Links:
+- These are first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
+	- [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
+	- [Make Tomato Juice - Ramble Cut](https://www.youtube.com/watch?v=ADo-2l0On-A&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=2) 
+	- [Turn Juice into Sauce](https://www.youtube.com/watch?v=NXhu7bsMcc8&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=3)
+	- [Can Tomato Sauce for the Pantry](https://www.youtube.com/watch?v=fcpO4EAP_IA&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=4&t=1s&pp=gAQBiAQBsAQB) (coming soon - check after 10/1 at 4pm)
+	- [How to use a presto precise digital canner](https://www.youtube.com/watch?v=wD_TgD6hW1I&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=5&pp=gAQBiAQBsAQB) (coming soon - check after 10/4 at 10 am)
+- And check out my beginners guide to canning here: https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/how-to-start-home-canning-beginner-s-guide/
 
-### Related Articles
-
-[[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Processing Tomatoes at Home - From Picking to Powder\|Processing Tomatoes at Home - From Picking to Powder]]
+### Equipment Links:
+- Presto Precise Digital Canner 12 Quart: https://amzn.to/473JzLN (this is the one I have)
+- Presto Precise Digital Canner 17 Quart: https://amzn.to/3IJ0n1o (this is the one I'd buy if I was starting again)
+- Viking 8 quart pasta pot: https://amzn.to/4nRUiyu
+- 24 quart stock pot (it's new! You'll see it soon.): https://amzn.to/3KsF3Oc
+- Ladel: https://amzn.to/3W4joi1
+- Strainer: https://amzn.to/42ki6CY (not the one I have, but the closest I can find)
+- Jar Lifter: https://amzn.to/4mMNwcq
+- Jars: Quart https://amzn.to/4gMpz3y, Pint https://amzn.to/4gOgYxv, Half Pint https://amzn.to/46O7EoD
+- Enamel Dutch Oven: https://amzn.to/46wW6av (Not the on I have, but the one I'd buy if I had to replace mine.)
 
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
@@ -51,7 +65,7 @@ Feel free to reach out anytime if you have questions or comments about my conten
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:

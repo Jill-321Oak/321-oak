@@ -1,6 +1,11 @@
 ---
-{"title":"Home Canning Risks - Spoilage and Botulism Basics","aliases":["risks","risks of canning","risks of home canning"],"dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Home Canning Risks: Spoilage & Botulism Basics","description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:title":"Home Canning Risks: Spoilage & Botulism Basics","og:description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:type":"article","og:url":"https://321oak.com/home-canning-risks","og:site_name":"321 Oak","og:image":"https://321oak.com/images/home-canning-risks-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/home-canning-risks-1200x630.jpg","twitter:image:alt":"Home-canned jars cooling on a towel; article on spoilage and botulism risks"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/home-canning-risks-spoilage-and-botulism-basics/","metatags":{"title":"Home Canning Risks: Spoilage & Botulism Basics","description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:title":"Home Canning Risks: Spoilage & Botulism Basics","og:description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:type":"article","og:url":"https://321oak.com/home-canning-risks","og:site_name":"321 Oak","og:image":"https://321oak.com/images/home-canning-risks-1200x630.jpg","og:image:width":"1200","og:image:height":"630","twitter:card":"summary_large_image","twitter:site":"@321oak","twitter:image":"https://321oak.com/images/home-canning-risks-1200x630.jpg","twitter:image:alt":"Home-canned jars cooling on a towel; article on spoilage and botulism risks"},"dgPassFrontmatter":true}
+{"title":"Home Canning Risks - Spoilage and Botulism Basics","aliases":["risks","risks of canning","risks of home canning"],"dg-date":"2025-09-06","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Home Canning Risks: Spoilage & Botulism Basics","description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:title":"Home Canning Risks: Spoilage & Botulism Basics","og:description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/home-canning-risks-spoilage-and-botulism-basics/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"permalink":"/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/home-canning-risks-spoilage-and-botulism-basics/","metatags":{"title":"Home Canning Risks: Spoilage & Botulism Basics","description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:title":"Home Canning Risks: Spoilage & Botulism Basics","og:description":"Spot signs of spoilage, understand the rare risk of botulism, and learn simple guidelines that keep home canning safe for low-acid foods.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/home-canning-risks-spoilage-and-botulism-basics/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto,g_north/v1759331210/canned-tomato-sauce-jars-321oak-orig_h1fi9t.jpg","og:image:width":"1200","og:image:height":"630"},"dgPassFrontmatter":true}
 ---
+
+
+<img
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg" alt="Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them."
+>
 
 9.6.25
 by: Jill@321Oak
@@ -68,13 +73,31 @@ Last, and possibly most important, following the guidelines is easy. Yes, you ha
 It’s just as easy to can according to theUSDA home canning guidelines, so I do it.
 
 
-Feel free to reach out anytime if you have questions or comments about my content!
+### Video Links:
+- These are first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
+	- [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
+	- [Make Tomato Juice - Ramble Cut](https://www.youtube.com/watch?v=ADo-2l0On-A&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=2) 
+	- [Turn Juice into Sauce](https://www.youtube.com/watch?v=NXhu7bsMcc8&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=3)
+	- [Can Tomato Sauce for the Pantry](https://www.youtube.com/watch?v=fcpO4EAP_IA&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=4&t=1s&pp=gAQBiAQBsAQB) (coming soon - check after 10/1 at 4pm)
+	- [How to use a presto precise digital canner](https://www.youtube.com/watch?v=wD_TgD6hW1I&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=5&pp=gAQBiAQBsAQB) (coming soon - check after 10/4 at 10 am)
+
+### Equipment Links:
+- Presto Precise Digital Canner 12 Quart: https://amzn.to/473JzLN (this is the one I have)
+- Presto Precise Digital Canner 17 Quart: https://amzn.to/3IJ0n1o (this is the one I'd buy if I was starting again)
+- Viking 8 quart pasta pot: https://amzn.to/4nRUiyu
+- 24 quart stock pot (it's new! You'll see it soon.): https://amzn.to/3KsF3Oc
+- Ladel: https://amzn.to/3W4joi1
+- Strainer: https://amzn.to/42ki6CY (not the one I have, but the closest I can find)
+- Jar Lifter: https://amzn.to/4mMNwcq
+- Jars: Quart https://amzn.to/4gMpz3y, Pint https://amzn.to/4gOgYxv, Half Pint https://amzn.to/46O7EoD
+- Enamel Dutch Oven: https://amzn.to/46wW6av (Not the on I have, but the one I'd buy if I had to replace mine.)
+
 ##### Links:
 [YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:

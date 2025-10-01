@@ -1,5 +1,5 @@
 ---
-{"title":"Timers and Alarms for Time Management","aliases":["timers and alarms","Pomodoro","Orodomop"],"dg-date":"2025-09-11","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","og:description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:type":"article","og:url":"https://321-oak.vercel.app/life-hacks/timers-and-alarms-for-time-management-daily-thoughts/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks."},"permalink":"/2-life-hacks/timers-and-alarms-for-time-management/","metatags":{"title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","og:description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:type":"article","og:url":"https://321-oak.vercel.app/life-hacks/timers-and-alarms-for-time-management-daily-thoughts/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks."},"dgPassFrontmatter":true}
+{"title":"Timers and Alarms for Time Management","aliases":["timers and alarms","Pomodoro","Orodomop"],"dg-date":"2025-09-11","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","og:description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:type":"article","og:url":"https://321oak.com/2-life-hacks/timers-and-alarms-for-time-management/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks."},"permalink":"/2-life-hacks/timers-and-alarms-for-time-management/","metatags":{"title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:title":"Timers & Alarms for Better Time Management (ADHD-Friendly)","og:description":"Beat time blindness with alarms, 45/15 'Orodomop' breaks, and simple routines. Practical tips for punctuality, focus, and lower-stress days.","og:type":"article","og:url":"https://321oak.com/2-life-hacks/timers-and-alarms-for-time-management/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757614834/timers-toolkit__Web-Article_wnxquk.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Samsung Galaxy Z Flip 6 phone, Galaxy Watch 7, and SHOKZ OpenFit 2 earbuds arranged on a wooden table, used for timers, alarms, and 45/15 breaks."},"dgPassFrontmatter":true}
 ---
 
 
@@ -80,13 +80,17 @@ Whether you're neurotypical or not, time struggles are real. Think about how thi
     - Jot down 3–5 bullet points to help you remember what you want to tell them.
 
 
+### Equipment Links
+- Watch: The one I have https://amzn.to/48GXTuP, The one I want https://amzn.to/3VN2rbA
+- Earbuds: https://amzn.to/4nYWCE3
+
 Feel free to reach out anytime if you have questions or comments about my content!
 ##### Links:
 [YouTube](https://www.youtube.com/@Jill.321Oak)
 [Instagram](https://www.instagram.com/jill_321oak/)
 [Pinterest](https://www.pinterest.com/Jill_321Oak/)
 [Facebook](https://www.facebook.com/321Oak)
-Amazon Store
+
 **Email:** jill+comments@321Oak
 
 ##### Note:
