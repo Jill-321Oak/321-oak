@@ -2,9 +2,12 @@
 {"title":null,"aliases":null,"dg-date":"yyyy-mm-dd","dg-publish":true,"dg-home":false,"dg-position":null,"weight":null,"dg-metatags":{"description":"A list of my videos","og:title":"Jill@321Oak You Tube video index","og:description":"Index of my You Tube Videos","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg"},"permalink":"/1-home/video-index/","metatags":{"description":"A list of my videos","og:title":"Jill@321Oak You Tube video index","og:description":"Index of my You Tube Videos","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg"},"dgPassFrontmatter":true}
 ---
 
+
 <img
 src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg" alt="A wide field of tall yellow sunflowers facing the sky under partly cloudy blue skies."
 >
+
+
 ### Home Canning Made Simple
 These are first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
 1. [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
