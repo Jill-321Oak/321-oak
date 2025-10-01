@@ -4,8 +4,7 @@
 
 
 <img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg" alt="Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them."
->
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg" alt="Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them.">
 
 
 9.6.25

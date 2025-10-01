@@ -4,8 +4,7 @@
 
 
 <img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg" alt="A blender packed with cherry and Roma tomatoes, ready to puree for sauce."
->
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg" alt="A blender packed with cherry and Roma tomatoes, ready to puree for sauce.">
 
 
 9.4.25
