@@ -2,11 +2,13 @@
 {"title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","aliases":["dried tomatoe"],"dg-date":"2025-09-12","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","description":"Learn how to dehydrate tomatoes at home with a dehydrator, oven, or sun drying. Easy storage tips and versatile uses for your pantry.","og:title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","og:description":"Step-by-step guide to drying tomatoes at home with a dehydrator or oven. Great for storage, snacks, and cooking.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/easy-homemade-dried-tomatoes-not-sun-dried/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Cherry and slicing tomatoes on dehydrator trays"},"permalink":"/3-kitchen-cooking-and-recipes/1-kitchen-how-to/easy-homemade-dried-tomatoes-not-sun-dried/","metatags":{"title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","description":"Learn how to dehydrate tomatoes at home with a dehydrator, oven, or sun drying. Easy storage tips and versatile uses for your pantry.","og:title":"Easy Homemade Dried Tomatoes (Not Sun-Dried)","og:description":"Step-by-step guide to drying tomatoes at home with a dehydrator or oven. Great for storage, snacks, and cooking.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/easy-homemade-dried-tomatoes-not-sun-dried/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg","og:image:width":"1200","og:image:height":"630","og:image:alt":"Cherry and slicing tomatoes on dehydrator trays"},"dgPassFrontmatter":true}
 ---
 
+
+<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg" alt="- Cherry and slicing tomatoes on dehydrator trays.">
+
+
 9.12.25
 by: Jill@321Oak
 Pennsylvania, USA
-
-<img src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1757682911/dehydrating-tomatoes-cherry-slicing-20250904_hwgo9k.jpg" alt="- Cherry and slicing tomatoes on dehydrator trays.">
 
 ## Easy and Tasty! Homemade Dried Tomatoes
 

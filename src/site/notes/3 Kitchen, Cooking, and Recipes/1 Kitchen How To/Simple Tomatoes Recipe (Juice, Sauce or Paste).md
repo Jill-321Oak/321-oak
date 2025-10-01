@@ -2,9 +2,11 @@
 {"title":"Simple Tomatoes Recipe (Juice, Sauce or Paste)","aliases":"tomatoes recipe","dg-date":"2025-09-04","dg-publish":true,"dg-home":false,"dg-metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg","og:image:width":"1200","og:image:height":"630"},"permalink":"/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","metatags":{"title":"Simple Tomato Sauce: Juice, Sauce & Paste","description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:title":"Simple Tomato Sauce: Juice, Sauce & Paste","og:description":"One-ingredient tomato recipe: blend, strain, reduce; yields for juice, sauce, and paste, plus storage tips and canning guidance.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/1-kitchen-how-to/simple-tomatoes-recipe-juice-sauce-or-paste/","og:site_name":"321 Oak","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg","og:image:width":"1200","og:image:height":"630"},"dgPassFrontmatter":true}
 ---
 
+
 <img
 src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/v1759324388/full_blender_jj0xc9.jpg" alt="A blender packed with cherry and Roma tomatoes, ready to puree for sauce."
 >
+
 
 9.4.25
 by: Jill@321Oak

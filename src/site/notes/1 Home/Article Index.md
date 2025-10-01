@@ -4,8 +4,7 @@
 
 
 <img
-src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg" alt="A wide field of tall yellow sunflowers facing the sky under partly cloudy blue skies."
->
+src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto/v1759324508/Sunflowers_jofsax.jpg" alt="A wide field of tall yellow sunflowers facing the sky under partly cloudy blue skies.">
 
 
 | Title                                                                                                                                                               | Date       |
