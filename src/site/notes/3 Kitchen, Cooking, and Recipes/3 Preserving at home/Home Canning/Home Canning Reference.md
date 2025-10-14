@@ -1,5 +1,5 @@
 ---
-{"title":"Home Canning Reference","aliases":null,"dg-date":"2025-10-14","dg-publish":true,"dg-home":false,"dg-position":1,"weight":null,"dg-metatags":{"description":"Quick, reliable canning times with sources—plus altitude adjustments, pressure vs. water bath/steam, headspace tips, and what to add when reheating","og:title":"Home Canning Reference","og:description":"A clean, easy reference to tested canning times, sources, altitude adjustments, and method tips (pressure, water bath, steam)","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg","og:image:alt":"Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them.","og:type":"article","og:url":"https://321oak.com","og:site_name":"321 Oak"},"permalink":"/3-kitchen-cooking-and-recipes/3-preserving-at-home/home-canning/home-canning-reference/","metatags":{"description":"Quick, reliable canning times with sources—plus altitude adjustments, pressure vs. water bath/steam, headspace tips, and what to add when reheating","og:title":"Home Canning Reference","og:description":"A clean, easy reference to tested canning times, sources, altitude adjustments, and method tips (pressure, water bath, steam)","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg","og:image:alt":"Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them.","og:type":"article","og:url":"https://321oak.com","og:site_name":"321 Oak"},"dgPassFrontmatter":true}
+{"title":"Home Canning Reference","aliases":null,"dg-date":"2025-10-14","dg-publish":true,"dg-home":false,"dg-position":1,"weight":null,"dg-metatags":{"description":"Quick, reliable canning times with sources—plus altitude adjustments, pressure vs. water bath/steam, headspace tips, and what to add when reheating","og:title":"Home Canning Reference","og:description":"A clean, easy reference to tested canning times, sources, altitude adjustments, and method tips (pressure, water bath, steam)","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg","og:image:alt":"Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/3-preserving-at-home/home-canning/home-canning-reference/","og:site_name":"321 Oak"},"permalink":"/3-kitchen-cooking-and-recipes/3-preserving-at-home/home-canning/home-canning-reference/","metatags":{"description":"Quick, reliable canning times with sources—plus altitude adjustments, pressure vs. water bath/steam, headspace tips, and what to add when reheating","og:title":"Home Canning Reference","og:description":"A clean, easy reference to tested canning times, sources, altitude adjustments, and method tips (pressure, water bath, steam)","og:image":"https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_auto:100:1600,dpr_auto,f_auto,q_auto,g_north/v1759331209/canned-tomato-sauce-jars-321oak-9x16_sf4fgr.jpg","og:image:alt":"Quart jars of homemade tomato sauce cooling on a cutting board, with a cone strainer resting beside them.","og:type":"article","og:url":"https://321oak.com/3-kitchen-cooking-and-recipes/3-preserving-at-home/home-canning/home-canning-reference/","og:site_name":"321 Oak"},"dgPassFrontmatter":true}
 ---
 
 
@@ -13,13 +13,13 @@ Pennsylvania, USA
 Tested recipes and information is found in a few places around the web, but they're all relatively wordy and hard to use. I've collected the things I use often from all of these sites, and I've provided a link to the references.
 
 ### TOC for this page:
-- [[#Canning times]]
-- [[#Do your own research]]
-- [[#Altitude]]
-- [[#Hot or Raw]]
-- [[#Headspace and de-bubbling]]
-- [[#Acidity and method pressure, water bath, or steam?]]
-- [[#Things to add when reheating]]
+- [Canning times](#canning-times)
+- [Do your own research](#do-your-own-research)
+- [Altitude](#altitude)
+- [Hot or Raw](#hot-or-raw)
+- [Headspace and de-bubbling](#headspace-and-de-bubbling)
+- [Acidity and method pressure, water bath, or steam?](#acidity-and-method-pressure,-water-bath,-or-steam?)
+- [Things to add when reheating](#things-to-add-when-reheating)
 
 ### Other Canning Articles
 - [[3 Kitchen, Cooking, and Recipes/3 Preserving at home/Home Canning/How to Start Home Canning (Beginner’s Guide)\|How to Start Home Canning (Beginner’s Guide)]]
