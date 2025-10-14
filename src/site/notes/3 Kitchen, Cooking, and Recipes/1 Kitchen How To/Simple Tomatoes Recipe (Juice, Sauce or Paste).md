@@ -13,33 +13,26 @@ Pennsylvania, USA
 
 ## Simple Tomato Sauce Recipe
 
-https://youtu.be/mcQH0LguRhc
-
+See my videos on this process [here](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4). 
 
 ### How to Make Tomato Juice, Sauce, or Paste
 
 Yield: 1 gallon tomatoes = 1/2 gallon juice = 1 quart sauce = 6 oz. paste (approximate yields)
-
 ##### Ingredients:
-
-- Tomatoes, washed and cored
-
+- Tomatoes, Rinsed
 ##### Directions:
-
-1. Blend: Place whole, cored, washed tomatoes into a blender or food processor. Blend to a smooth juice.
+1. Blend: Place whole, rinsed tomatoes into a blender or food processor. Blend to a smooth juice. (If using a blender, cut the first few in half, then you can toss them in whole.)
 2. Strain: Use a cone-style strainer to strain out seeds and bits of skin.
 3. Tomato Juice: For tomato juice, just bottle it up at this stage. See below for storage options.
-4. Tomato Sauce: In a large, heavy-bottomed stockpot, BTB (bring to a boil), RTS (reduce to simmer), and simmer until the volume of juice is reduced by half. Let cool slightly and bottle in clean quart canning jars.
+4. Tomato Sauce: In a large, heavy-bottomed stockpot, BTB (bring to a boil), RTS (reduce to simmer), and simmer until the volume of juice is reduced by half. Let cool slightly and store in quart canning jars.
 5. Tomato Paste: Continue simmering the sauce until it is reduced by half again, then transfer to one or more large, shallow baking dishes (such as a casserole dish). Bake at 270°F for many hours, stirring every hour at first, and more frequently as the paste begins to thicken. It’s done when it’s the same consistency as canned tomato paste.
-
 ### Processing and Storage
 
-Store in the fridge for a couple of days, the freezer for a year, or can them, and they’ll last for decades. I’m at sea level, and I pressure can hot quarts of juice or sauce with 1/2 tsp of citric acid for 15 minutes (I'm at sea level, and canning at 10 psi. Canning times differ based on altitude and pressure, so look it up!). Anything that doesn’t seal goes in the fridge, where it will now last for a month, or the freezer. 
+Store in the fridge for a couple of days, the freezer for a year, or can them, and they’ll last for decades. I’m at sea level, and I pressure can hot quarts of juice or sauce with 1/2 tsp of citric acid for 15 minutes (I'm at sea level, and canning at 10 psi. Canning times differ based on altitude and pressure, so look it up!). Anything that doesn’t seal goes in the fridge, where it will now last for a month, or the freezer. You can also water bath tomato sauce - for me, with the electric canner, pressure canning is easier. I'll water bath if texture is an issue, which it's not here.
 
 Key measures:
 - Citric acid: 1/4 tsp for pints, 1/2 tsp for quarts
-- Pressure canning, less than 1,000 ft at 10-11 lbs: 15 minutes ([source](https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/standard-tomato-sauce/))
-
+- Pressure canning, less than 1,000 ft at 10-11 lbs: 10 minutes ([source](https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/standard-tomato-sauce/))
 ### Article and Resource Links:
 - These are first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
 	- [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
@@ -48,7 +41,6 @@ Key measures:
 	- [Can Tomato Sauce for the Pantry](https://www.youtube.com/watch?v=fcpO4EAP_IA&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=4&t=1s&pp=gAQBiAQBsAQB) (coming soon - check after 10/1 at 4pm)
 	- [How to use a presto precise digital canner](https://www.youtube.com/watch?v=wD_TgD6hW1I&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=5&pp=gAQBiAQBsAQB) (coming soon - check after 10/4 at 10 am)
 - And check out my beginners guide to canning here: https://321oak.com/3-kitchen-cooking-and-recipes/2-notes-on-home-canning/how-to-start-home-canning-beginner-s-guide/
-
 ### Equipment Links:
 - Presto Precise Digital Canner 12 Quart: https://amzn.to/473JzLN (this is the one I have)
 - Presto Precise Digital Canner 17 Quart: https://amzn.to/3IJ0n1o (this is the one I'd buy if I was starting again)
@@ -68,7 +60,6 @@ Feel free to reach out anytime if you have questions or comments about my conten
 [Facebook](https://www.facebook.com/321Oak)
 
 **Email:** jill+comments@321Oak
-
 ##### Note:
 - We use cookies for analytics. See our [[9 Policies and Other Details/Privacy Policy\|Privacy Policy]].
 - **Disclosure:** Some links on 321Oak.com are affiliate links. This means we may earn a commission if you make a purchase through them, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases.

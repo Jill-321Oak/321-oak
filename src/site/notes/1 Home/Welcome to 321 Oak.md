@@ -8,6 +8,8 @@
 
 ## What's new?
 
+I've just published my [[3 Kitchen, Cooking, and Recipes/3 Preserving at home/Home Canning/Home Canning Reference\|Home Canning Reference]] article. It includes references to tested recipes, an ingredient chart with PC and Water bath times for different ingredients, including the source for those times. Also, some basic tips and answers to frequently asked canning questions.
+
 I've just uploaded the last video in my tomato sauce series, please check them out! 
 these are the first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
 1. [Make Tomato Juice - Just the Facts](https://www.youtube.com/watch?v=mcQH0LguRhc&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=1&t=7s&pp=gAQBiAQB)
@@ -17,10 +19,6 @@ these are the first videos in my canning [series](https://www.youtube.com/playli
 5. [How to use a presto precise digital canner](https://www.youtube.com/watch?v=wD_TgD6hW1I&list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4&index=5&pp=gAQBiAQBsAQB) (coming soon - check after 10/4 at 10 am)
 
 Check out my  new [[1 Home/Article Index\|Article Index]] page, which will show you all my posts sorted by most recent. Also, my [[1 Home/Video Index\|Video Index]] which shows all of my published and scheduled YouTube videos. 
-
-For a quicker view on my last several posts, here’s what I’ve been publishing lately: 
-- [[1 Home/Article Index\|Article Index]]
-- [[1 Home/Video Index\|Video Index]]
 
 ## What is 321 Oak?
 
