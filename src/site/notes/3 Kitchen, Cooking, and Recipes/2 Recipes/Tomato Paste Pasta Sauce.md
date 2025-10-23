@@ -13,7 +13,7 @@ Pennsylvania, USA
 ## Simple Family Meal
 
 ### Recipe:
-This super-simple family dinner comes together fast — just spaghetti, meatballs, and a sauce you can make with tomato paste and pantry staples.
+This super-simple family dinner comes together fast — just spaghetti, meatballs, and a sauce you can make with tomato paste and pantry staples. See the video [here](https://youtu.be/bixmgyCnXyk).
 ##### Ingredients
 - 1 lb pasta, cooked, water reserved
 - 2-4 Tbsp oil
@@ -32,7 +32,7 @@ This super-simple family dinner comes together fast — just spaghetti, meatball
 2. In a large skillet, heat oil
 3. Add onion, cook until caramelized
 4. Add Garlic, cook another minute or two
-5. Add Tomato Paste, cook - stirring constantly, for several minutes - until the paste has darkened in color and the texture changes (see the video)
+5. Add Tomato Paste, cook - stirring constantly, for several minutes - until the paste has darkened in color and the texture changes (see the [video](https://youtu.be/bixmgyCnXyk))
 6. Add Pasta water, a cup or so at a time, stirring constantly. Continue adding water until the mixture is the consistency of sauce.
 7. Add meat balls and seasoning
 8. Add pasta, toss, cook for 2 minutes, then serve.

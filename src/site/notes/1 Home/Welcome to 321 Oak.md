@@ -15,7 +15,7 @@ Lately, I published my [[3 Kitchen, Cooking, and Recipes/3 Preserving at home/Ho
 
 ### Videos:
 
-I just uploaded my first video in a new Super Simple Supper series - check it out here: Tomato Paste Sauce.
+I just uploaded my first video in a new Simple Family Meals series - check it out here: [Tomato Paste Sauce](https://youtu.be/bixmgyCnXyk).
 
 Lately, I created the first videos in my canning [series](https://www.youtube.com/playlist?list=PLgK1fb29N6CyijGCxVuj8uGCdoNRO7lk4):
 
