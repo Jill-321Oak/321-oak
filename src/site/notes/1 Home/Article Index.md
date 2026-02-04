@@ -24,6 +24,8 @@ src="https://res.cloudinary.com/dwfbbjxam/image/upload/c_fill,g_auto,ar_19:6,w_a
 | [[9 Policies and Other Details/Privacy Policy\|Privacy Policy]]                                                                                                            | 2025-09-05 |
 | [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Processing Tomatoes at Home - From Picking to Powder\|Processing Tomatoes at Home - From Picking to Powder]]            | 2025-09-04 |
 | [[3 Kitchen, Cooking, and Recipes/1 Kitchen How To/Simple Tomatoes Recipe (Juice, Sauce or Paste)\|Simple Tomatoes Recipe (Juice, Sauce or Paste)]]                        | 2025-09-04 |
+| [[2 Life Hacks/The Learning Logistics Center - A Metaphor for Your Brain\|\-]]                                                                                             | \-         |
+| [[2 Life Hacks/Learning Techniques - The Learning Toolkit\|\-]]                                                                                                            | \-         |
 | [[1 Home/Video Index\|\-]]                                                                                                                                                 | \-         |
 
 { .block-language-dataview}
