@@ -19,7 +19,7 @@ const sourceSans = Source_Sans_3({
 export const metadata: Metadata = {
   title: "321Oak — Every Student Can Master Anything",
   description:
-    "321Oak is a non-profit learning platform dedicated to the belief that every student can master anything with the right support, pacing, and encouragement.",
+    "321Oak is a learning platform dedicated to the belief that every student can master anything with the right support, pacing, and encouragement.",
   metadataBase: new URL("https://321oak.com"),
   openGraph: {
     title: "321Oak — Every Student Can Master Anything",
@@ -47,7 +47,7 @@ function Footer() {
               321Oak
             </p>
             <p className="mt-1 text-xs text-warm-500">
-              A 501(c)(3) non-profit &middot; Every student can master anything.
+              Building toward non-profit status &middot; Every student can master anything.
             </p>
           </div>
           <div className="flex gap-6 text-xs text-warm-500">
@@ -56,14 +56,6 @@ function Footer() {
               className="rounded-sm transition-colors hover:text-primary-700 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
             >
               Contact
-            </a>
-            <a
-              href="https://github.com/321oak"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-sm transition-colors hover:text-primary-700 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
-            >
-              GitHub
             </a>
           </div>
         </div>

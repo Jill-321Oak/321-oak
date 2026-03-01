@@ -63,7 +63,7 @@ export function Hero() {
           visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-3"
         )}
       >
-        Non-profit &middot; Open Source &middot; Forever Free
+        Open Source &middot; Forever Free &middot; Future Non-profit
       </div>
 
       {/* Headline */}

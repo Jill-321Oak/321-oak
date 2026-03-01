@@ -61,7 +61,7 @@ export function Logo({ className }: LogoProps) {
           321Oak
         </span>
         <span className="text-[10px] font-body tracking-widest uppercase text-warm-400 leading-none">
-          Non-profit &middot; In Development
+          Future Non-profit &middot; In Development
         </span>
       </div>
     </Link>

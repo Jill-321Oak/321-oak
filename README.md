@@ -2,7 +2,7 @@
 
 **Every student can master anything.**
 
-321Oak is a non-profit learning platform that combines mastery-based progression, spaced repetition, and built-in accommodations — so every learner gets what they actually need. No subscriptions. No ads. No data selling. Just effective learning, free forever.
+321Oak is a free, open learning platform that combines mastery-based progression, spaced repetition, and built-in accommodations — so every learner gets what they actually need. No subscriptions. No ads. No data selling. Just effective learning, free forever.
 
 ## Tech Stack
 
@@ -37,4 +37,4 @@ Pushes to `main` trigger automatic deployments.
 
 ## License
 
-321Oak is a 501(c)(3) non-profit organization. This repository contains the public-facing website for the project.
+321Oak is building toward non-profit status. This repository contains the public-facing website for the project.

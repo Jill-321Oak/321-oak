@@ -106,7 +106,7 @@ export function MobileMenu({ isOpen, onClose, activeSection, onLinkClick }: Mobi
         )}
         style={{ transitionDelay: isOpen ? "500ms" : "0ms" }}
       >
-        Non-profit &middot; In Development
+        Future Non-profit &middot; In Development
       </p>
     </div>
   );
