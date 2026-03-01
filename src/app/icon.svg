@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- Stem -->
+  <path d="M16 1 C16.5 2.5, 17.5 4, 16 5.5" stroke="#38621b" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Cap -->
+  <path d="M6 11 C6 7, 10 5.5, 16 5.5 C22 5.5, 26 7, 26 11 L25 13 C23 14.5, 19 15.5, 16 15.5 C13 15.5, 9 14.5, 7 13 Z" fill="#4A7C23" opacity="0.8"/>
+  <!-- Cap texture -->
+  <path d="M8.5 9.5 L23.5 9.5 M9.5 11.8 L22.5 11.8" stroke="#2D5016" stroke-width="0.7" opacity="0.3"/>
+  <!-- Body -->
+  <path d="M8 15.5 C6.5 22, 10 28.5, 16 31 C22 28.5, 25.5 22, 24 15.5 C21 15.5, 11 15.5, 8 15.5 Z" fill="#2D5016"/>
+</svg>
